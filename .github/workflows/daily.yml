@@ -1,0 +1,27 @@
+name: Daily Telegram Poll
+
+on:
+  schedule:
+    - cron: "0 7 * * *"   # 07:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: telegram-daily-poll
+  cancel-in-progress: true
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - env:
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python send_poll.py
