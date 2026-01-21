@@ -1,0 +1,2717 @@
+{
+  "Quale tipo di sushi preferisci?": [
+    "Nigiri",
+    "Uramaki",
+    "Sashimi",
+    "Poke bowl",
+    "Non mi piace sushi"
+  ],
+  "Qual è la tua attività all'aperto preferita?": [
+    "Passeggiata",
+    "Trekking",
+    "Bici",
+    "Mare",
+    "Montagna",
+    "Altro"
+  ],
+  "Che tipo di persone ti 'caricano' di più?": [
+    "Entusiaste",
+    "Calme",
+    "Curiose",
+    "Empatiche",
+    "Pratiche",
+    "Altro"
+  ],
+  "Quanto è importante per te sentirti capito/a?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Mi sento a mio agio nel dire 'no'.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale browser usi più spesso?": [
+    "Chrome",
+    "Safari",
+    "Firefox",
+    "Edge",
+    "Altro"
+  ],
+  "Preferisci scrivere o parlare?": [
+    "Scrivere",
+    "Parlare",
+    "Entrambi",
+    "Nessuno dei due"
+  ],
+  "Ti capita di fare detox dai social ogni tanto?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quale alloggio scegli più volentieri?": [
+    "Hotel",
+    "B&amp;B",
+    "Appartamento",
+    "Ostello",
+    "Campeggio",
+    "Altro"
+  ],
+  "Come preferisci comunicare con gli amici?": [
+    "Messaggi",
+    "Vocali",
+    "Chiamate",
+    "Videochiamate",
+    "Di persona"
+  ],
+  "Se ordini delivery, cosa prendi più spesso?": [
+    "Pizza",
+    "Sushi",
+    "Hamburger",
+    "Cucina cinese",
+    "Poke",
+    "Altro"
+  ],
+  "Dove salvi più spesso le tue foto?": [
+    "Cloud",
+    "Telefono/PC",
+    "Hard disk esterno",
+    "Stampo poche",
+    "Altro"
+  ],
+  "Quanto è importante per te l'amicizia?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale tipo di sport ti incuriosisce?": [
+    "Arti marziali",
+    "Nuoto",
+    "Arrampicata",
+    "Danza",
+    "Pallavolo",
+    "Altro",
+    "Nessuno"
+  ],
+  "Quale tipo di corso online segui più volentieri?": [
+    "Tech",
+    "Lingue",
+    "Cucina",
+    "Design",
+    "Finanza",
+    "Altro",
+    "Non seguo"
+  ],
+  "Quanto ti interessa la privacy online?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "È una priorità"
+  ],
+  "Quale tipo di cioccolato preferisci?": [
+    "Fondente",
+    "Al latte",
+    "Bianco",
+    "Gianduia",
+    "Non mi piace il cioccolato"
+  ],
+  "Preferisco la novità alla routine.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di skincare usi (se la usi)?": [
+    "Nessuna",
+    "Base",
+    "Completa",
+    "Solo crema",
+    "Dipende"
+  ],
+  "Quando leggi più volentieri?": [
+    "Mattina",
+    "Pausa pranzo",
+    "Pomeriggio",
+    "Sera",
+    "Weekend",
+    "Non ho abitudini"
+  ],
+  "Quale tipo di contenuti condividi di più?": [
+    "Foto",
+    "Storie",
+    "Meme",
+    "Link",
+    "Niente"
+  ],
+  "Quale ambiente ti fa addormentare meglio?": [
+    "Silenzio",
+    "Rumore bianco",
+    "Musica soft",
+    "TV accesa",
+    "Altro"
+  ],
+  "Quale piattaforma usi per chattare in community?": [
+    "Discord",
+    "Telegram",
+    "Reddit",
+    "Facebook Groups",
+    "Nessuna",
+    "Altro"
+  ],
+  "Quale colazione ti fa iniziare meglio la giornata?": [
+    "Cornetto/brioche",
+    "Pane e marmellata",
+    "Uova o salato",
+    "Yogurt e frutta",
+    "Solo caffè/tea",
+    "Non faccio colazione"
+  ],
+  "Quale servizio di film/serie usi più spesso?": [
+    "Netflix",
+    "Prime Video",
+    "Disney+",
+    "NOW",
+    "RAIPlay",
+    "Altro",
+    "Non uso streaming"
+  ],
+  "Quale stile di arredamento ti piace?": [
+    "Scandinavo",
+    "Industriale",
+    "Classico",
+    "Boho",
+    "Minimal",
+    "Altro"
+  ],
+  "Quale tipo di riso ti piace di più?": [
+    "Carnaroli",
+    "Basmati",
+    "Integrale",
+    "Venere",
+    "Non mangio riso",
+    "Altro"
+  ],
+  "Quale profumo per la casa preferisci?": [
+    "Agrumi",
+    "Lavanda",
+    "Vaniglia",
+    "Legno/ambra",
+    "Neutro (senza profumi)",
+    "Altro"
+  ],
+  "Quale tipo di panino preferisci fuori casa?": [
+    "Hamburger",
+    "Kebab",
+    "Piadina",
+    "Tramezzino",
+    "Altro"
+  ],
+  "Quale scarpa indossi più spesso?": [
+    "Sneakers",
+    "Scarpe eleganti",
+    "Stivali",
+    "Sandali",
+    "Altro"
+  ],
+  "Quando sei giù, cosa ti aiuta davvero?": [
+    "Parlarne",
+    "Stare da solo/a",
+    "Fare movimento",
+    "Ascoltare musica",
+    "Dormire",
+    "Altro"
+  ],
+  "Come preferisci fare la spesa?": [
+    "Supermercato grande",
+    "Negozietti di quartiere",
+    "Online",
+    "Mercato",
+    "Dipende"
+  ],
+  "Quale tipo di riunione preferisci?": [
+    "Breve e concreta",
+    "Creativa",
+    "Aggiornamento periodico",
+    "Nessuna, grazie",
+    "Dipende"
+  ],
+  "Quanto spesso ti senti libero/a di essere te stesso/a?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto è importante per te sentirti utile?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quanto spesso ti prendi una pausa senza sensi di colpa?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale genere di film preferisci?": [
+    "Commedia",
+    "Azione",
+    "Drammatico",
+    "Thriller",
+    "Fantascienza",
+    "Horror",
+    "Romantico",
+    "Altro"
+  ],
+  "Quanto sei a tuo agio a dire 'no'?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Sto imparando"
+  ],
+  "Quale obiettivo sociale ti sta più a cuore?": [
+    "Ambiente",
+    "Parità",
+    "Lavoro",
+    "Istruzione",
+    "Salute",
+    "Altro",
+    "Preferisco non rispondere"
+  ],
+  "Quanto è importante per te sentirti creativo/a?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale tipo di contenuti su YouTube ti interessa di più?": [
+    "Intrattenimento",
+    "Tech",
+    "Cucina",
+    "Sport",
+    "Storia/scienza",
+    "Vlog",
+    "Altro"
+  ],
+  "Quanto spesso ti capita di fare movimento?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Faccio fatica a fidarmi delle persone.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale canale preferisci per ricevere informazioni importanti?": [
+    "Email",
+    "WhatsApp/Chat",
+    "Chiamata",
+    "Calendario",
+    "Altro"
+  ],
+  "Come prendi di solito il caffè?": [
+    "Espresso",
+    "Cappuccino",
+    "Macchiato",
+    "Americano",
+    "Freddo",
+    "Non bevo caffè"
+  ],
+  "Quando devi prendere una decisione, ti basi più su...": [
+    "Logica",
+    "Istinto",
+    "Pareri altrui",
+    "Dati",
+    "Esperienza",
+    "Dipende"
+  ],
+  "Quanto spesso ti capita di cambiare idea dopo aver ascoltato qualcuno?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto spesso ti capita di avere voglia di cambiare tutto?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "La qualità del sonno influenza molto il mio umore.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale stagione ti mette più di buon umore?": [
+    "Primavera",
+    "Estate",
+    "Autunno",
+    "Inverno"
+  ],
+  "Quale obiettivo ti fa più gola quest'anno?": [
+    "Imparare una skill",
+    "Mettermi in forma",
+    "Risparmiare",
+    "Viaggiare",
+    "Cambiare lavoro",
+    "Altro"
+  ],
+  "Quando c'è un conflitto, cosa preferisci?": [
+    "Chiarire subito",
+    "Prendermi tempo",
+    "Scrivere un messaggio",
+    "Mediazione",
+    "Evitare",
+    "Dipende"
+  ],
+  "Quando scegli cereali, cosa preferisci?": [
+    "Avena",
+    "Corn flakes",
+    "Muesli",
+    "Granola",
+    "Non mangio cereali"
+  ],
+  "Quale qualità cerchi in un amico?": [
+    "Lealtà",
+    "Humor",
+    "Ascolto",
+    "Avventura",
+    "Sincerità",
+    "Altro"
+  ],
+  "Preferisci lavorare da solo/a o in team?": [
+    "Da solo/a",
+    "In team",
+    "Dipende"
+  ],
+  "Quanto è importante per te la privacy online?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quanto spesso ti senti in sintonia con la tua famiglia?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quale difetto ti dai più spesso (con onestà)?": [
+    "Procrastinazione",
+    "Impazienza",
+    "Ansia",
+    "Disordine",
+    "Testardaggine",
+    "Altro",
+    "Preferisco non rispondere"
+  ],
+  "Quale categoria ti 'scappa' più spesso nel budget?": [
+    "Cibo fuori",
+    "Abbonamenti",
+    "Shopping",
+    "Trasporti",
+    "Hobby",
+    "Regali",
+    "Altro"
+  ],
+  "Quale calendario usi?": [
+    "Google Calendar",
+    "Apple Calendar",
+    "Outlook",
+    "Cartaceo",
+    "Non uso calendari"
+  ],
+  "Quale gesto fai per prenderti cura di te?": [
+    "Sport",
+    "Riposo",
+    "Cibo buono",
+    "Parlare con qualcuno",
+    "Creatività",
+    "Altro"
+  ],
+  "Quale frase descrive meglio il tuo approccio al sesso sicuro?": [
+    "Sempre",
+    "Quasi sempre",
+    "Dipende",
+    "Raramente",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di pizza scegli più spesso?": [
+    "Margherita",
+    "Diavola",
+    "Quattro formaggi",
+    "Prosciutto e funghi",
+    "Vegetariana",
+    "Altro"
+  ],
+  "Quanto ti interessa sperimentare in intimità?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quale ritmo preferisci in viaggio?": [
+    "Sveglia presto e via",
+    "Equilibrato",
+    "Lento e rilassato",
+    "Dipende"
+  ],
+  "Cosa ti fa perdere la pazienza più velocemente?": [
+    "Ritardi",
+    "Maleducazione",
+    "Disordine",
+    "Ingiustizie",
+    "Rumore",
+    "Altro"
+  ],
+  "Quale tempo atmosferico preferisci?": [
+    "Sole",
+    "Nuvoloso",
+    "Pioggia",
+    "Neve",
+    "Non ho preferenze"
+  ],
+  "Quale tipo di foto fai più spesso?": [
+    "Persone",
+    "Paesaggi",
+    "Cibo",
+    "Animali",
+    "Selfie",
+    "Non faccio foto"
+  ],
+  "Ti senti più produttivo/a con la musica?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quando viaggi, cosa ti attira di più?": [
+    "Cibo locale",
+    "Musei e storia",
+    "Natura",
+    "Vita notturna",
+    "Shopping",
+    "Relax"
+  ],
+  "Quanto spesso ti capita di fare pause durante la giornata?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di foto scatti in viaggio?": [
+    "Paesaggi",
+    "Cibo",
+    "Architettura",
+    "Persone",
+    "Dettagli",
+    "Non scatto"
+  ],
+  "Come definiresti la tua libido in questo periodo?": [
+    "Molto bassa",
+    "Bassa",
+    "Media",
+    "Alta",
+    "Molto alta",
+    "Preferisco non rispondere"
+  ],
+  "Quale salsa per la pasta ti conquista di più?": [
+    "Pomodoro",
+    "Pesto",
+    "Carbonara",
+    "Amatriciana",
+    "Ragù",
+    "Burro e salvia",
+    "Altro"
+  ],
+  "Quale tipo di vacanza sogni più spesso?": [
+    "Relax totale",
+    "Avventura",
+    "Città e cultura",
+    "Mare",
+    "Montagna",
+    "Road trip",
+    "Altro"
+  ],
+  "Quale tipo di test ti diverte nei sondaggi?": [
+    "Personalità",
+    "Preferenze",
+    "Quiz cultura",
+    "Sì/No",
+    "Scelte rapide",
+    "Altro"
+  ],
+  "Quanto spesso ti capita di programmare la settimana?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Dove guardi più spesso video?": [
+    "YouTube",
+    "Netflix",
+    "Prime Video",
+    "Disney+",
+    "TikTok",
+    "RAI/Mediaset",
+    "Altro"
+  ],
+  "Quanto ami i viaggi in solitaria?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Non ho mai provato"
+  ],
+  "Se devi studiare, cosa ti aiuta di più?": [
+    "Musica",
+    "Silenzio",
+    "Tecnica pomodoro",
+    "Studiare in compagnia",
+    "Caffè/pausa",
+    "Altro"
+  ],
+  "Cosa ti motiva di più?": [
+    "Obiettivi chiari",
+    "Curiosità",
+    "Riconoscimento",
+    "Stabilità",
+    "Impatto",
+    "Sfida"
+  ],
+  "Quale tipo di luce preferisci in casa?": [
+    "Calda",
+    "Fredda",
+    "Naturale",
+    "Led colorate",
+    "Dipende"
+  ],
+  "Se scegli un dolce, cosa preferisci?": [
+    "Cioccolato",
+    "Crema",
+    "Frutta",
+    "Gelato",
+    "Biscotti",
+    "Non amo i dolci"
+  ],
+  "Quale tipo di bevanda estiva preferisci?": [
+    "Acqua",
+    "Tè freddo",
+    "Succo",
+    "Limonata",
+    "Altro"
+  ],
+  "Quanto è importante per te la stabilità economica?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quanto spesso ti capita di sentirti sopraffatto/a?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Sei più tipo da mattina o da sera?": [
+    "Mattina",
+    "Sera",
+    "Entrambi",
+    "Nessuno dei due"
+  ],
+  "Quale frase ti descrive di più in questo periodo?": [
+    "Sto costruendo",
+    "Sto resistendo",
+    "Sto ripartendo",
+    "Sto esplorando",
+    "Sto rallentando",
+    "Altro"
+  ],
+  "Cosa ti fa disinstallare un'app?": [
+    "Troppe notifiche",
+    "Bug",
+    "Pubblicità",
+    "Troppo tempo perso",
+    "Non la uso",
+    "Altro"
+  ],
+  "Quale tipo di contenuto ti ispira di più?": [
+    "Storie di riscatto",
+    "Consigli pratici",
+    "Arte/creatività",
+    "Scienza/tech",
+    "Commedia",
+    "Altro"
+  ],
+  "Quanto spesso ti capita di chiedere scusa quando serve?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "In che formato leggi di più?": [
+    "Cartaceo",
+    "E-book",
+    "Audiolibro",
+    "Articoli online",
+    "Non leggo"
+  ],
+  "Quale mezzo preferisci per ascoltare musica?": [
+    "Cuffie",
+    "Cassa",
+    "Auto",
+    "Live",
+    "Altro"
+  ],
+  "Mi capita di essere troppo severo/a con me stesso/a.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quanto è importante per te la forma fisica?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale tipo di allenamento di forza preferisci?": [
+    "Pesi liberi",
+    "Macchine",
+    "Corpo libero",
+    "Kettlebell",
+    "Nessuno"
+  ],
+  "Quale tipo di contenuti leggi di più?": [
+    "Post brevi",
+    "Articoli lunghi",
+    "Newsletter",
+    "Forum",
+    "Non leggo molto"
+  ],
+  "Cosa ti manca più spesso?": [
+    "Tempo",
+    "Energia",
+    "Soldi",
+    "Chiarezza",
+    "Connessione con gli altri",
+    "Altro"
+  ],
+  "Quale ruolo preferisci nelle conversazioni?": [
+    "Ascolto",
+    "Racconto",
+    "Faccio domande",
+    "Scherzo",
+    "Dipende"
+  ],
+  "Quale tipo di appuntamento 'perfetto' scegli?": [
+    "Cibo",
+    "Attività",
+    "Viaggio breve",
+    "Serata a casa",
+    "Evento",
+    "Altro"
+  ],
+  "Che tipo di casa ti fa sentire meglio?": [
+    "Minimal",
+    "Accogliente e piena di cose",
+    "Moderna",
+    "Rustica",
+    "Non ho preferenze"
+  ],
+  "Quale tipo di umorismo ti fa ridere di più?": [
+    "Ironico",
+    "Demenziale",
+    "Nero",
+    "Satira",
+    "Situazionale",
+    "Altro"
+  ],
+  "Quale stile di abbigliamento ti rappresenta di più?": [
+    "Casual",
+    "Sportivo",
+    "Elegante",
+    "Street",
+    "Vintage",
+    "Minimal",
+    "Altro"
+  ],
+  "Quale tipo di messaggio mandi più spesso?": [
+    "Testo breve",
+    "Messaggi lunghi",
+    "Vocali",
+    "Sticker/meme",
+    "Dipende"
+  ],
+  "Quanto ti pesa il giudizio su temi sessuali?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di gioco mobile preferisci?": [
+    "Puzzle",
+    "Strategia",
+    "Arcade",
+    "Simulazione",
+    "Non gioco"
+  ],
+  "Ho un buon equilibrio tra lavoro/studio e vita privata.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale beneficio sul lavoro è più importante per te?": [
+    "Stipendio",
+    "Flessibilità",
+    "Crescita",
+    "Ambiente",
+    "Stabilità",
+    "Smart working"
+  ],
+  "Cosa ti fa sentire più supportato/a?": [
+    "Parole",
+    "Presenza",
+    "Aiuto pratico",
+    "Ascolto",
+    "Spazio",
+    "Altro"
+  ],
+  "Quale alternativa vegetale ti piace di più?": [
+    "Burger vegetali",
+    "Tofu",
+    "Seitan",
+    "Legumi",
+    "Non mi piacciono",
+    "Non consumo alternative"
+  ],
+  "Mi preoccupo troppo per ciò che pensano gli altri.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Come preferisci i carboidrati a cena?": [
+    "Pasta",
+    "Riso",
+    "Pane",
+    "Patate",
+    "Li evito",
+    "Dipende"
+  ],
+  "Mi sento a mio agio nel parlare delle mie emozioni.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale gesto ti fa sentire apprezzato/a?": [
+    "Un complimento",
+    "Un messaggio",
+    "Un regalo",
+    "Un favore",
+    "Tempo insieme",
+    "Altro"
+  ],
+  "Quale formato di musica usi di più?": [
+    "Streaming",
+    "Download",
+    "CD/Vinili",
+    "Radio",
+    "Live"
+  ],
+  "Quanto ti piace parlare con sconosciuti?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Dipende"
+  ],
+  "Ti sei mai preso/a una pausa dalle app di dating?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Mi sento costante nel portare avanti i miei obiettivi.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Preferisci mare o montagna?": [
+    "Mare",
+    "Montagna",
+    "Entrambi",
+    "Dipende"
+  ],
+  "Quando scegli colazione del weekend, cosa preferisci?": [
+    "Lenta e abbondante",
+    "Come in settimana",
+    "Brunch",
+    "Salto",
+    "Dipende"
+  ],
+  "Hai una routine serale che ti fa dormire meglio?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quale spezia/aroma usi più spesso?": [
+    "Pepe",
+    "Peperoncino",
+    "Origano",
+    "Basilico",
+    "Curry",
+    "Rosmarino",
+    "Altro"
+  ],
+  "Quanto spesso ti senti stressato/a per questioni economiche?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di app ti è più utile?": [
+    "Produttività",
+    "Fitness",
+    "Finanza",
+    "Social",
+    "Intrattenimento",
+    "Studio",
+    "Altro"
+  ],
+  "Quanto spesso ti senti motivato/a a migliorarti?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di festa preferisci?": [
+    "Piccola e intima",
+    "Grande e rumorosa",
+    "All'aperto",
+    "A tema",
+    "Non mi piacciono le feste"
+  ],
+  "Quale genere di libri preferisci?": [
+    "Narrativa",
+    "Thriller",
+    "Fantasy",
+    "Saggistica",
+    "Biografie",
+    "Romance",
+    "Altro"
+  ],
+  "Se potessi cambiare una cosa nella tua routine, cosa sarebbe?": [
+    "Orari",
+    "Pause",
+    "Priorità",
+    "Ambiente",
+    "Alimentazione",
+    "Altro"
+  ],
+  "Quando scegli condimento insalata, cosa preferisci?": [
+    "Olio e sale",
+    "Aceto",
+    "Limone",
+    "Salse",
+    "Non mangio insalata"
+  ],
+  "Quanto spesso ti senti grato/a per qualcosa di semplice?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Mi prendo abbastanza cura di me.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Hai un obiettivo economico chiaro per quest'anno?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quanto spesso ti senti soddisfatto/a di come stai gestendo il tuo tempo?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Mi sento più energico/a dopo aver fatto movimento.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Con chi preferisci viaggiare?": [
+    "Da solo/a",
+    "Partner",
+    "Amici",
+    "Famiglia",
+    "Gruppi organizzati",
+    "Dipende"
+  ],
+  "Preferisci chiamate o messaggi?": [
+    "Chiamate",
+    "Messaggi",
+    "Vocali",
+    "Dipende"
+  ],
+  "Il tuo comfort food per eccellenza?": [
+    "Pizza",
+    "Pasta",
+    "Sushi",
+    "Hamburger",
+    "Dolci",
+    "Altro"
+  ],
+  "Mi sento a mio agio a chiedere aiuto.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale abitudine vorresti migliorare per prima?": [
+    "Sonno",
+    "Alimentazione",
+    "Movimento",
+    "Organizzazione",
+    "Gestione stress",
+    "Altro"
+  ],
+  "Quanto spesso ti capita di essere duro/a con te stesso/a?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Che tipo di persone ti 'stancano' di più?": [
+    "Pessimisti",
+    "Invadenti",
+    "Arroganti",
+    "Incoerenti",
+    "Sempre in ritardo",
+    "Altro"
+  ],
+  "Quanto è importante per te viaggiare?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Preferisci dolce o salato?": [
+    "Dolce",
+    "Salato",
+    "Entrambi",
+    "Dipende"
+  ],
+  "Quale app di navigazione preferisci?": [
+    "Google Maps",
+    "Waze",
+    "Apple Maps",
+    "Here",
+    "Non uso"
+  ],
+  "Quale tipo di trucco preferisci (se lo usi)?": [
+    "Nessuno",
+    "Leggero",
+    "Completo",
+    "Solo occhi",
+    "Solo labbra",
+    "Dipende"
+  ],
+  "Quale sistema operativo usi di più sul computer?": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "ChromeOS",
+    "Altro"
+  ],
+  "Quale corriere ti dà più fiducia?": [
+    "Amazon",
+    "BRT",
+    "GLS",
+    "SDA/Poste",
+    "DHL",
+    "Altro",
+    "Dipende"
+  ],
+  "Come scopri musica nuova?": [
+    "Playlist",
+    "Amici",
+    "Radio",
+    "TikTok/social",
+    "Concerti",
+    "Algoritmi",
+    "Altro"
+  ],
+  "Quando scegli colore del vino analcolico, cosa preferisci?": [
+    "Rosso",
+    "Bianco",
+    "Rosé",
+    "Non mi interessa",
+    "Non bevo"
+  ],
+  "Quale tipo di complimento ti resta addosso?": [
+    "Sulla personalità",
+    "Sulle capacità",
+    "Sull'aspetto",
+    "Su un gesto",
+    "Mi imbarazza",
+    "Altro"
+  ],
+  "Quanto spesso ti senti ascoltato/a dalle persone intorno a te?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto spesso ti capita di mangiare frutta/verdura?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Preferisci routine o novità?": [
+    "Routine",
+    "Novità",
+    "Un equilibrio"
+  ],
+  "Sono soddisfatto/a della mia situazione attuale.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Mi piace imparare cose nuove.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quanto spesso ti capita di confrontarti con gli altri sui social?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Come impari meglio?": [
+    "Guardando video",
+    "Leggendo",
+    "Facendo pratica",
+    "Ascoltando",
+    "Spiegando ad altri"
+  ],
+  "Quale qualità ti riconoscono più spesso?": [
+    "Determinazione",
+    "Gentilezza",
+    "Ironia",
+    "Creatività",
+    "Affidabilità",
+    "Empatia",
+    "Altro"
+  ],
+  "Quale tipo di lavoro ti attrae di più?": [
+    "Pratico/manuale",
+    "Creativo",
+    "Analitico",
+    "Relazionale",
+    "Autonomo",
+    "Team-based"
+  ],
+  "Cosa preferisci per l'aperitivo?": [
+    "Spritz analcolico",
+    "Cocktail analcolico",
+    "Vino analcolico",
+    "Bibita",
+    "Acqua",
+    "Non faccio aperitivi"
+  ],
+  "Se risparmi, per cosa lo fai più volentieri?": [
+    "Emergenze",
+    "Viaggi",
+    "Casa",
+    "Auto",
+    "Formazione",
+    "Investimenti",
+    "Altro"
+  ],
+  "Che tipo di capo/coach preferisci?": [
+    "Esigente",
+    "Supportivo",
+    "Autonomo (poche interferenze)",
+    "Molto presente",
+    "Dipende"
+  ],
+  "Se potessi dedicare un'intera giornata a una cosa, cosa sceglieresti?": [
+    "Riposo",
+    "Viaggio",
+    "Hobby creativo",
+    "Sport",
+    "Amici/famiglia",
+    "Progetto personale"
+  ],
+  "Quanto spesso ti capita di sentirti solo/a anche in mezzo alla gente?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di allenamento preferisci?": [
+    "Pesi/palestra",
+    "Corsa",
+    "Yoga/pilates",
+    "Sport di squadra",
+    "Allenamento a casa",
+    "Non mi alleno"
+  ],
+  "Che tipo di regalo ti piace ricevere?": [
+    "Esperienze",
+    "Oggetti utili",
+    "Oggetti belli",
+    "Regali fatti a mano",
+    "Niente, basta il pensiero"
+  ],
+  "Quale tipo di macchina fotografica useresti?": [
+    "Smartphone",
+    "Compatta",
+    "Reflex/Mirrorless",
+    "Instant",
+    "Nessuna"
+  ],
+  "Mi piace pianificare le mie giornate.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di evento sportivo guarderesti dal vivo?": [
+    "Calcio",
+    "Basket",
+    "Motori",
+    "Tennis",
+    "Altro",
+    "Nessuno"
+  ],
+  "Quale app useresti per organizzarti?": [
+    "Calendario",
+    "To-do list",
+    "Note",
+    "Tutte insieme",
+    "Nessuna"
+  ],
+  "Quale tipo di sicurezza usi sul telefono?": [
+    "Impronta",
+    "Face ID",
+    "PIN",
+    "Pattern",
+    "Nessuna",
+    "Preferisco non rispondere"
+  ],
+  "Quanto piccante ami il cibo?": [
+    "Per niente",
+    "Leggermente",
+    "Medio",
+    "Molto",
+    "Estremo"
+  ],
+  "Quale stile di pizza preferisci?": [
+    "Napoletana",
+    "Romana (scrocchiarella)",
+    "In teglia",
+    "Gourmet",
+    "Senza glutine",
+    "Non mi piace la pizza"
+  ],
+  "Quanto è importante per te imparare continuamente?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "So riconoscere quando ho bisogno di riposo.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale motivo ti fa cambiare idea più spesso?": [
+    "Nuove informazioni",
+    "Esperienza diretta",
+    "Confronto con altri",
+    "Tempo",
+    "Raramente cambio idea"
+  ],
+  "Se dovessi scegliere un superpotere, quale?": [
+    "Invisibilità",
+    "Teletrasporto",
+    "Leggere nel pensiero",
+    "Fermare il tempo",
+    "Guarigione",
+    "Altro"
+  ],
+  "Quale stanza della casa curi di più?": [
+    "Cucina",
+    "Camera",
+    "Soggiorno",
+    "Bagno",
+    "Studio",
+    "Nessuna in particolare"
+  ],
+  "Quale gioco preferisci?": [
+    "Videogiochi",
+    "Giochi da tavolo",
+    "Carte",
+    "Puzzle",
+    "Non gioco"
+  ],
+  "Preferisci inizio o fine di un progetto?": [
+    "Inizio",
+    "Fine",
+    "Entrambi",
+    "Dipende"
+  ],
+  "Quando sei stressato/a, cosa fai prima?": [
+    "Respiro",
+    "Distrazione",
+    "Affronto il problema",
+    "Chiedo aiuto",
+    "Mi chiudo",
+    "Altro"
+  ],
+  "Quale tipo di pane preferisci?": [
+    "Bianco",
+    "Integrale",
+    "Ai cereali",
+    "Focaccia",
+    "Senza glutine",
+    "Non ho preferenze"
+  ],
+  "Quale ritmo di lavoro/studio ti rappresenta di più?": [
+    "Sprint brevi",
+    "Sessioni lunghe",
+    "Alterno",
+    "Vado a caso"
+  ],
+  "Quanto è importante per te la comunicazione in una relazione?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quanto spesso ti capita di fare qualcosa solo per te?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di stretching preferisci?": [
+    "Breve",
+    "Lungo",
+    "Yoga",
+    "Non faccio stretching"
+  ],
+  "Quale tipo di outing preferisci nel weekend?": [
+    "Casa",
+    "Natura",
+    "Shopping",
+    "Cultura",
+    "Party",
+    "Altro"
+  ],
+  "Quale tipo di appuntamento ti piace di più?": [
+    "Caffè e chiacchiere",
+    "Cena",
+    "Passeggiata",
+    "Attività (museo, sport)",
+    "A casa",
+    "Altro"
+  ],
+  "Quale cucina estera ti piace di più?": [
+    "Giapponese",
+    "Cinese",
+    "Messicana",
+    "Indiana",
+    "Thai",
+    "Americana",
+    "Altro"
+  ],
+  "Quando scegli merenda, cosa preferisci?": [
+    "Dolce",
+    "Salata",
+    "Frutta",
+    "Yogurt",
+    "Non faccio merenda"
+  ],
+  "Quale cosa ti fa dire 'ne è valsa la pena'?": [
+    "Risultati",
+    "Relazioni",
+    "Esperienze",
+    "Imparare",
+    "Altro"
+  ],
+  "Quale tipo di serie ti prende di più?": [
+    "Crime",
+    "Sitcom",
+    "Fantasy",
+    "Sci-fi",
+    "Documentari",
+    "Teen",
+    "Anime",
+    "Altro"
+  ],
+  "Quando ti senti più orgoglioso/a di te?": [
+    "Quando mantengo una promessa",
+    "Quando aiuto qualcuno",
+    "Quando supero una paura",
+    "Quando imparo qualcosa",
+    "Quando mi prendo cura di me",
+    "Altro"
+  ],
+  "Quale tipo di evento ti mette più a tuo agio?": [
+    "Piccolo gruppo",
+    "Grande evento",
+    "Uno a uno",
+    "Online",
+    "Dipende"
+  ],
+  "Quale tipo di pausa pranzo preferisci?": [
+    "Pranzo veloce",
+    "Pranzo lungo",
+    "Meal prep",
+    "Delivery",
+    "Non ho pausa"
+  ],
+  "Quanto è importante il consenso esplicito in intimità?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quanto spesso ti capita di staccare dal telefono?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di bevanda preferisci in palestra?": [
+    "Acqua",
+    "Isotonica",
+    "Caffè",
+    "Pre-workout",
+    "Non vado in palestra"
+  ],
+  "Preferisci città o natura?": [
+    "Città",
+    "Natura",
+    "Entrambe",
+    "Dipende"
+  ],
+  "Quale animale domestico preferisci?": [
+    "Cane",
+    "Gatto",
+    "Entrambi",
+    "Altro",
+    "Nessuno"
+  ],
+  "Cosa ti fa sentire davvero soddisfatto/a a fine giornata?": [
+    "Aver concluso",
+    "Aver aiutato qualcuno",
+    "Aver imparato",
+    "Aver riposato",
+    "Aver condiviso",
+    "Altro"
+  ],
+  "Quale tema ti interessa di più in questo periodo?": [
+    "Salute",
+    "Relazioni",
+    "Carriera",
+    "Soldi",
+    "Creatività",
+    "Viaggi",
+    "Altro"
+  ],
+  "Quando lavori in gruppo, che ruolo prendi spesso?": [
+    "Leader",
+    "Organizzatore",
+    "Creativo",
+    "Esecutore",
+    "Mediatore",
+    "Osservatore"
+  ],
+  "Quale tipo di complimento preferisci fare?": [
+    "Sincero e diretto",
+    "Ironico",
+    "Su dettagli",
+    "Con azioni più che parole",
+    "Non faccio complimenti spesso"
+  ],
+  "Quale hobby ti rilassa di più?": [
+    "Lettura",
+    "Cucina",
+    "Musica",
+    "Disegno",
+    "Passeggiata",
+    "Altro"
+  ],
+  "Quale tipo di foto ti piace stampare?": [
+    "Viaggi",
+    "Famiglia/amici",
+    "Eventi",
+    "Paesaggi",
+    "Non stampo foto"
+  ],
+  "Quale argomento ti piace discutere?": [
+    "Attualità",
+    "Tecnologia",
+    "Psicologia",
+    "Sport",
+    "Cinema/musica",
+    "Cibo",
+    "Altro"
+  ],
+  "In quale area ti piacerebbe crescere di più?": [
+    "Comunicazione",
+    "Disciplina",
+    "Creatività",
+    "Gestione tempo",
+    "Tecnico/professionale",
+    "Relazioni"
+  ],
+  "Quale tipo di acquisti fai più spesso online?": [
+    "Elettronica",
+    "Abbigliamento",
+    "Casa",
+    "Cibo",
+    "Regali",
+    "Altro"
+  ],
+  "Quale tipo di pasta al forno preferisci?": [
+    "Lasagne",
+    "Pasta al forno",
+    "Cannelloni",
+    "Non mi piace"
+  ],
+  "Quando scegli panino, cosa preferisci?": [
+    "Prosciutto",
+    "Tonno",
+    "Vegetariano",
+    "Hamburger",
+    "Altro",
+    "Non mangio panini"
+  ],
+  "Quanto spesso ti capita di andare a letto a un orario regolare?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale sport segui di più?": [
+    "Calcio",
+    "Basket",
+    "Tennis",
+    "Motori",
+    "Nessuno",
+    "Altro"
+  ],
+  "Quale tipo di cuffie preferisci?": [
+    "In-ear",
+    "Over-ear",
+    "On-ear",
+    "Non uso cuffie"
+  ],
+  "Quanto è importante per te l'intimità fisica?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale tipo di insalata preferisci?": [
+    "Mista",
+    "Caprese",
+    "Caesar",
+    "Con legumi",
+    "Non mangio insalata"
+  ],
+  "Che tipo di eventi ti piacerebbe fare più spesso?": [
+    "Concerti",
+    "Teatro",
+    "Cinema",
+    "Musei/mostre",
+    "Festival",
+    "Sport dal vivo",
+    "Altro"
+  ],
+  "Quando fai un acquisto importante, cosa fai prima?": [
+    "Confronto prezzi",
+    "Leggo recensioni",
+    "Chiedo ad amici",
+    "Vado a sentimento",
+    "Rimando"
+  ],
+  "Riesco a concentrarmi senza distrazioni.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di festa ti piace organizzare?": [
+    "Cena",
+    "Aperitivo",
+    "Compleanno",
+    "Serata giochi",
+    "Non organizzo"
+  ],
+  "Quale tipo di PC preferisci?": [
+    "Laptop",
+    "Desktop",
+    "Entrambi",
+    "Non uso PC"
+  ],
+  "Cosa ti dà più energia al lavoro/studio?": [
+    "Obiettivi chiari",
+    "Collaborazione",
+    "Autonomia",
+    "Riconoscimento",
+    "Novità",
+    "Altro"
+  ],
+  "Quale sistema operativo usi di più sul telefono?": [
+    "Android",
+    "iOS",
+    "Altro",
+    "Non so"
+  ],
+  "Come preferisci mangiare la carne (se la mangi)?": [
+    "Ben cotta",
+    "Media",
+    "Al sangue",
+    "Non mangio carne",
+    "Dipende"
+  ],
+  "Quanto spesso ti capita di fare il primo passo (scrivere, chiamare, proporre)?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto spesso ti senti in sintonia con i tuoi amici?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quale email usi di più?": [
+    "Gmail",
+    "Outlook/Hotmail",
+    "Yahoo",
+    "iCloud",
+    "Altro",
+    "Preferisco non rispondere"
+  ],
+  "Quale piatto tipico italiano scegli più volentieri?": [
+    "Lasagne",
+    "Risotto",
+    "Parmigiana",
+    "Polenta",
+    "Ossobuco",
+    "Altro"
+  ],
+  "Quale frutto scegli più spesso?": [
+    "Banana",
+    "Mela",
+    "Arancia/mandarino",
+    "Fragole/frutti rossi",
+    "Pesca/albicocca",
+    "Altro"
+  ],
+  "Mi piace improvvisare.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Mi piace avere una routine.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di agenda preferisci?": [
+    "Giornaliera",
+    "Settimanale",
+    "Mensile",
+    "Digitale",
+    "Non uso agende"
+  ],
+  "Quale animale ti rappresenta di più?": [
+    "Gatto",
+    "Cane",
+    "Lupo",
+    "Delfino",
+    "Gufo",
+    "Altro"
+  ],
+  "Preferisci libri o film?": [
+    "Libri",
+    "Film",
+    "Entrambi",
+    "Nessuno dei due"
+  ],
+  "Quando scegli pasta ripiena, cosa preferisci?": [
+    "Ravioli",
+    "Tortellini",
+    "Cappelletti",
+    "Agnolotti",
+    "Non la mangio"
+  ],
+  "Preferisci pianificare o improvvisare?": [
+    "Pianificare",
+    "Improvvisare",
+    "Un mix"
+  ],
+  "Quanto ti senti a tuo agio a esprimere i tuoi confini?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di scarico stress preferisci?": [
+    "Sport",
+    "Chiacchierata",
+    "Musica",
+    "Gaming",
+    "Cibo",
+    "Altro"
+  ],
+  "Quanto spesso ti capita di rimandare qualcosa che sai essere importante?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Qual è la tua fascia oraria più produttiva?": [
+    "Prima mattina",
+    "Tarda mattina",
+    "Pomeriggio",
+    "Sera",
+    "Notte"
+  ],
+  "Come preferisci dormire?": [
+    "Presto e sveglia presto",
+    "Tardi e sveglia tardi",
+    "Orari regolari",
+    "Orari variabili"
+  ],
+  "Quanto spesso ti capita di avere paura di sbagliare?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Qual è il tuo accessorio preferito?": [
+    "Orologio",
+    "Collane/anelli",
+    "Cappelli",
+    "Occhiali",
+    "Borsa/zaino",
+    "Nessuno"
+  ],
+  "Che tipo di regali fai più spesso?": [
+    "Esperienze",
+    "Cose pratiche",
+    "Cose personalizzate",
+    "Dolci/cibo",
+    "Non faccio regali spesso"
+  ],
+  "Quanto spesso ti senti in equilibrio tra doveri e piaceri?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quale tipo di allenamento cardio preferisci?": [
+    "Corsa",
+    "Bici",
+    "Ellittica",
+    "Camminata veloce",
+    "Nessuno"
+  ],
+  "Come ti piace iniziare la giornata?": [
+    "Doccia",
+    "Caffè e calma",
+    "Allenamento",
+    "Social/Notizie",
+    "Subito al lavoro/studio",
+    "Altro"
+  ],
+  "Ti capita di mettere limiti chiari nelle relazioni?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Mi piace stare in compagnia.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quanto spesso ti capita di dire 'sì' quando vorresti dire 'no'?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale genere musicale ascolti più spesso?": [
+    "Pop",
+    "Rock",
+    "Rap/Hip-hop",
+    "Elettronica",
+    "Indie",
+    "Classica",
+    "Metal",
+    "Altro"
+  ],
+  "Se potessi fare un corso gratis, quale scegli?": [
+    "Lingua",
+    "Cucina",
+    "Fotografia",
+    "Programmazione",
+    "Musica",
+    "Fitness",
+    "Altro"
+  ],
+  "Quale tipo di meta italiana scegli più volentieri?": [
+    "Mare",
+    "Montagna",
+    "Città d'arte",
+    "Borghi",
+    "Laghetti",
+    "Altro"
+  ],
+  "Quale profumo personale preferisci?": [
+    "Agrumato",
+    "Dolce",
+    "Legnoso",
+    "Fresco",
+    "Speziato",
+    "Non uso profumi"
+  ],
+  "Qual è il tuo stile di comunicazione quando ti interessa qualcuno?": [
+    "Diretto",
+    "Scherzoso",
+    "Cauto",
+    "Molto presente",
+    "Mi faccio desiderare",
+    "Dipende"
+  ],
+  "Quale hobby ti piacerebbe iniziare?": [
+    "Fotografia",
+    "Cucina",
+    "Palestra",
+    "Disegno",
+    "Musica",
+    "Programmazione",
+    "Giardinaggio",
+    "Altro"
+  ],
+  "Quale modalità usi più spesso sul telefono?": [
+    "Silenzioso",
+    "Vibrazione",
+    "Suoneria",
+    "Non disturbare",
+    "Dipende"
+  ],
+  "Quanto è importante per te la libertà di scelta?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "In amicizia, cosa conta di più?": [
+    "Lealtà",
+    "Divertimento",
+    "Onestà",
+    "Presenza",
+    "Condivisione interessi",
+    "Altro"
+  ],
+  "Quale tipo di colazione in bar scegli?": [
+    "Cornetto e cappuccino",
+    "Caffè e brioche",
+    "Succo e dolce",
+    "Salato",
+    "Non vado al bar"
+  ],
+  "Che tipo di pianificazione preferisci per i viaggi?": [
+    "Tutto organizzato",
+    "Solo tappe principali",
+    "Zero piani",
+    "Dipende dal viaggio"
+  ],
+  "Quale tipo di pasta scegli più spesso?": [
+    "Spaghetti",
+    "Penne",
+    "Fusilli",
+    "Rigatoni",
+    "Pasta fresca",
+    "Pasta integrale",
+    "Altro"
+  ],
+  "Quanto spesso ti concedi tempo per un hobby?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto spesso ti senti in sintonia con il tuo partner (se presente)?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quale abitudine ti fa sentire più 'adulto/a'?": [
+    "Pagare bollette",
+    "Fare la spesa",
+    "Allenarmi",
+    "Gestire agenda",
+    "Cucinare",
+    "Altro"
+  ],
+  "Per le password, cosa usi?": [
+    "Gestore password",
+    "Stessa password",
+    "Varianti",
+    "Scrivo su note",
+    "Preferisco non dire"
+  ],
+  "Ti piacerebbe vivere in un'altra città?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di notizie segui di più?": [
+    "Nazionali",
+    "Internazionali",
+    "Economia",
+    "Tech",
+    "Spettacolo",
+    "Non seguo news"
+  ],
+  "Quanto spesso ti capita di sentirti ispirato/a da qualcuno?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quanto spesso ti capita di bere abbastanza acqua?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Che tipo di feedback preferisci?": [
+    "Diretto e rapido",
+    "Gentile e motivante",
+    "Dettagliato",
+    "Solo se richiesto",
+    "Dipende"
+  ],
+  "Quale tipo di risotto preferisci?": [
+    "Funghi",
+    "Zafferano",
+    "Mare",
+    "Verdure",
+    "Non mangio risotto"
+  ],
+  "Quanto contano per te i preliminari in un rapporto?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Qual è il tuo modo preferito di ricaricare le energie?": [
+    "Stare da solo/a",
+    "Uscire con amici",
+    "Natura",
+    "Sport",
+    "Serie/film",
+    "Altro"
+  ],
+  "In una relazione, cosa pesa di più?": [
+    "Fiducia",
+    "Comunicazione",
+    "Spazio personale",
+    "Intimità",
+    "Progetti",
+    "Altro"
+  ],
+  "Quando scegli formaggio, cosa preferisci?": [
+    "Parmigiano",
+    "Mozzarella",
+    "Gorgonzola",
+    "Pecorino",
+    "Non mangio formaggi",
+    "Altro"
+  ],
+  "Quale abbonamento useresti anche senza sconti?": [
+    "Musica",
+    "Film/serie",
+    "Palestra",
+    "Giornali/news",
+    "Cloud",
+    "Nessuno"
+  ],
+  "Quanto spesso ti capita di fare un complimento sincero?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale souvenir ti piace portare a casa?": [
+    "Magneti",
+    "Cibo tipico",
+    "Artigianato",
+    "Foto (niente oggetti)",
+    "Altro",
+    "Non compro souvenir"
+  ],
+  "Quale valore metti al primo posto?": [
+    "Onestà",
+    "Libertà",
+    "Famiglia",
+    "Crescita",
+    "Stabilità",
+    "Gentilezza",
+    "Altro"
+  ],
+  "Quale qualità cerchi di più in un partner (o potenziale)?": [
+    "Gentilezza",
+    "Ironia",
+    "Affidabilità",
+    "Ambizione",
+    "Empatia",
+    "Attrazione",
+    "Altro",
+    "Non applicabile"
+  ],
+  "Cosa non può mancare in valigia?": [
+    "Caricatore",
+    "Medicinali",
+    "Cuffie",
+    "Libro",
+    "Snack",
+    "Altro"
+  ],
+  "Quale tipo di lettura ti 'aggancia' subito?": [
+    "Storie vere",
+    "Mistero",
+    "Romance",
+    "Crescita personale",
+    "Fantascienza",
+    "Altro"
+  ],
+  "Mi fido facilmente delle persone.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di doccia preferisci?": [
+    "Calda",
+    "Tiepida",
+    "Fredda",
+    "Alternata",
+    "Dipende"
+  ],
+  "Quale caratteristica ti fa cambiare telefono prima?": [
+    "Batteria",
+    "Fotocamera",
+    "Prestazioni",
+    "Memoria",
+    "Schermo",
+    "Altro"
+  ],
+  "Quanto è importante per te avere tempo libero ogni settimana?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale verdura metteresti ovunque?": [
+    "Zucchine",
+    "Pomodori",
+    "Insalata",
+    "Broccoli",
+    "Melanzane",
+    "Altro"
+  ],
+  "Quanto spesso ti senti contento/a del tuo corpo?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quale bevanda calda ti rilassa di più?": [
+    "Tè",
+    "Infuso",
+    "Cioccolata calda",
+    "Caffè",
+    "Latte caldo",
+    "Nessuna"
+  ],
+  "Quale tipo di meta estera scegli più volentieri?": [
+    "Europa",
+    "Asia",
+    "Americhe",
+    "Africa",
+    "Oceania",
+    "Dipende"
+  ],
+  "Quale arte ti interessa di più?": [
+    "Musica",
+    "Cinema",
+    "Fotografia",
+    "Pittura",
+    "Scrittura",
+    "Design",
+    "Altro"
+  ],
+  "Quale tipo di caffeina preferisci?": [
+    "Caffè",
+    "Tè",
+    "Energy drink",
+    "Mate",
+    "Nessuna"
+  ],
+  "Quale snack ti salva più spesso?": [
+    "Frutta",
+    "Frutta secca",
+    "Snack salati",
+    "Dolce",
+    "Yogurt",
+    "Barretta",
+    "Non faccio snack"
+  ],
+  "Quale bevanda energetica/alternativa scegli (se capita)?": [
+    "Nessuna",
+    "Energy drink",
+    "Caffè",
+    "Tè",
+    "Integratori",
+    "Altro"
+  ],
+  "Quale tipo di foto ti piace ricevere?": [
+    "Paesaggi",
+    "Selfie",
+    "Cibo",
+    "Meme",
+    "Nessuna"
+  ],
+  "Quale tipo di playlist scegli?": [
+    "Motivazione",
+    "Relax",
+    "Allenamento",
+    "Focus",
+    "Party",
+    "Altro"
+  ],
+  "Quale tipo di shampoo scegli?": [
+    "Antiforfora",
+    "Idratante",
+    "Volumizzante",
+    "Naturale",
+    "Solido",
+    "Non ho preferenze"
+  ],
+  "Come gestisci di solito le spese?": [
+    "Traccio tutto",
+    "Traccio a grandi linee",
+    "Solo a fine mese",
+    "Non traccio",
+    "Vorrei iniziare"
+  ],
+  "Che rapporto hai con gli abbonamenti?": [
+    "Ne ho pochi",
+    "Ne ho molti",
+    "Li controllo spesso",
+    "Li dimentico",
+    "Non ne ho"
+  ],
+  "Cosa ti fa sentire 'a casa'?": [
+    "Persone",
+    "Un luogo",
+    "Routine",
+    "Profumi/sapori",
+    "Musica",
+    "Altro"
+  ],
+  "Che tipo di videogiochi preferisci?": [
+    "Azione",
+    "Strategia",
+    "RPG",
+    "Sport",
+    "Indie",
+    "Casual/mobile",
+    "Non gioco"
+  ],
+  "Quando scegli frutta secca, cosa preferisci?": [
+    "Noci",
+    "Mandorle",
+    "Anacardi",
+    "Pistacchi",
+    "Non mangio frutta secca"
+  ],
+  "Quanto spesso ti capita di tenere la casa in ordine?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quale tipo di pausa ti aiuta di più?": [
+    "Caffè",
+    "Camminata",
+    "Musica",
+    "Respiro/relax",
+    "Snack",
+    "Altro"
+  ],
+  "Quale podcast ascolteresti più spesso?": [
+    "True crime",
+    "Attualità",
+    "Crescita personale",
+    "Tech",
+    "Storie",
+    "Commedia",
+    "Non ascolto podcast"
+  ],
+  "Quale tipo di hobby creativo preferisci?": [
+    "Disegno",
+    "Scrittura",
+    "Musica",
+    "DIY",
+    "Fotografia",
+    "Altro"
+  ],
+  "Quale piccola cosa ti migliora l'umore?": [
+    "Sole",
+    "Musica",
+    "Doccia",
+    "Caffè",
+    "Messaggio",
+    "Altro"
+  ],
+  "Quanto contano per te i baci in una relazione?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quanto ti piace conoscere persone nuove?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Dipende dal contesto"
+  ],
+  "Quanto spesso ti capita di uscire all'aperto?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Quando scegli bevanda serale, cosa preferisci?": [
+    "Tisana/infuso",
+    "Tè",
+    "Latte",
+    "Acqua",
+    "Niente",
+    "Altro"
+  ],
+  "Le notifiche mi rubano più tempo di quanto vorrei.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Come preferisci conoscere qualcuno?": [
+    "Dal vivo",
+    "App di dating",
+    "Amici in comune",
+    "Eventi",
+    "Social",
+    "Altro"
+  ],
+  "In quale contesto ti senti più te stesso/a?": [
+    "Con amici",
+    "In famiglia",
+    "Al lavoro/studio",
+    "Da solo/a",
+    "In viaggio",
+    "Altro"
+  ],
+  "Che ruolo ha per te l'intimità emotiva nel sesso?": [
+    "Nessuno",
+    "Secondario",
+    "Importante",
+    "Fondamentale",
+    "Preferisco non rispondere"
+  ],
+  "Che tipo di dispositivo usi più spesso per navigare?": [
+    "Smartphone",
+    "PC",
+    "Tablet",
+    "Smart TV",
+    "Altro"
+  ],
+  "Quale attività ti fa perdere la cognizione del tempo?": [
+    "Videogiochi",
+    "Sport",
+    "Serie",
+    "Lettura",
+    "Creatività",
+    "Altro"
+  ],
+  "Quando hai 30 minuti liberi, cosa fai più volentieri?": [
+    "Scroll sui social",
+    "Leggo",
+    "Video",
+    "Passeggiata",
+    "Telefonata",
+    "Altro"
+  ],
+  "Ti capita di fare acquisti impulsivi?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Che tipo di acqua preferisci?": [
+    "Naturale",
+    "Frizzante",
+    "Leggermente frizzante",
+    "Non ho preferenze"
+  ],
+  "Quale tipo di colazione salata preferisci?": [
+    "Uova",
+    "Toast",
+    "Pane e affettati",
+    "Avocado toast",
+    "Altro",
+    "Non faccio colazione salata"
+  ],
+  "Mi sento a mio agio nel parlare di sesso e consenso.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale tipo di notifiche ti infastidisce di più?": [
+    "Pubblicità",
+    "Social",
+    "Email",
+    "Giochi",
+    "News",
+    "Nessuna"
+  ],
+  "Quale tipo di palestra preferiresti?": [
+    "Tradizionale",
+    "Crossfit",
+    "Outdoor",
+    "Corsi di gruppo",
+    "Casa",
+    "Non mi interessa"
+  ],
+  "Quale assistente vocale usi (se lo usi)?": [
+    "Nessuno",
+    "Google Assistant",
+    "Siri",
+    "Alexa",
+    "Altro"
+  ],
+  "Quale posto scegli per una serata tranquilla?": [
+    "A casa",
+    "Cinema",
+    "Ristorante",
+    "Passeggiata",
+    "Bar",
+    "Altro"
+  ],
+  "Quale mezzo preferisci per i viaggi lunghi?": [
+    "Aereo",
+    "Treno",
+    "Auto",
+    "Pullman",
+    "Nave"
+  ],
+  "Che tipo di tè preferisci?": [
+    "Nero",
+    "Verde",
+    "Oolong",
+    "Rooibos",
+    "Infusi",
+    "Non bevo tè"
+  ],
+  "Quale cosa ti dà più serenità?": [
+    "Ordine",
+    "Relazioni",
+    "Sicurezza economica",
+    "Tempo libero",
+    "Salute",
+    "Altro"
+  ],
+  "Quale piattaforma di second hand useresti?": [
+    "Vinted",
+    "Subito",
+    "eBay",
+    "Marketplace",
+    "Altro",
+    "Non uso"
+  ],
+  "Quanto è importante per te l'intimità emotiva?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Quale servizio di musica usi?": [
+    "Spotify",
+    "Apple Music",
+    "YouTube Music",
+    "Amazon Music",
+    "Altro",
+    "Non ascolto streaming"
+  ],
+  "Quando compri vestiti, cosa conta di più?": [
+    "Comodità",
+    "Prezzo",
+    "Qualità",
+    "Marca",
+    "Sostenibilità",
+    "Tendenza"
+  ],
+  "Quale tipo di foto profilo preferisci?": [
+    "Volto",
+    "Paesaggio",
+    "Animale",
+    "Arte",
+    "Nessuna foto",
+    "Altro"
+  ],
+  "Quale qualità apprezzi di più in un collega/compagno di studio?": [
+    "Affidabilità",
+    "Competenza",
+    "Collaborazione",
+    "Flessibilità",
+    "Umiltà",
+    "Altro"
+  ],
+  "Quale gioco da tavolo ti piace di più?": [
+    "Party game",
+    "Strategia",
+    "Cooperativo",
+    "Carte",
+    "Non gioco"
+  ],
+  "Quale tipo di colazione 'fit' preferisci?": [
+    "Yogurt",
+    "Porridge",
+    "Uova",
+    "Frutta",
+    "Non mi interessa"
+  ],
+  "Ti senti a tuo agio a parlare di sesso con un partner?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quanto spesso ti capita di fare una cosa creativa?": [
+    "Mai",
+    "Raramente",
+    "Qualche volta",
+    "Spesso",
+    "Quasi ogni giorno"
+  ],
+  "Come ti organizzi di solito?": [
+    "Agenda/cartaceo",
+    "App",
+    "Liste mentali",
+    "Promemoria vocali",
+    "Non mi organizzo"
+  ],
+  "Quale metodo di pagamento usi più spesso?": [
+    "Carta",
+    "Contanti",
+    "Smartphone",
+    "Bonifico",
+    "Altro"
+  ],
+  "Sento di avere qualcuno su cui contare.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale formato di dessert preferisci?": [
+    "Torta",
+    "Biscotti",
+    "Monoporzioni",
+    "Gelato",
+    "Frutta",
+    "Altro"
+  ],
+  "Quale bevanda preferisci a pranzo?": [
+    "Acqua naturale",
+    "Acqua frizzante",
+    "Bibita",
+    "Birra analcolica",
+    "Succo",
+    "Altro"
+  ],
+  "Quale app potresti eliminare senza rimpianti?": [
+    "Social",
+    "Giochi",
+    "News",
+    "Shopping",
+    "Non ne eliminerei",
+    "Altro"
+  ],
+  "Hai un hobby che vorresti trasformare in lavoro?": [
+    "Sì",
+    "No",
+    "Dipende",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di shopping ti piace?": [
+    "Online",
+    "In negozio",
+    "Mercatini",
+    "Second hand",
+    "Non mi piace shopping"
+  ],
+  "Quale approccio preferisci alle notifiche?": [
+    "Tutte attive",
+    "Solo essenziali",
+    "Quasi tutte off",
+    "Modalità non disturbare spesso"
+  ],
+  "Quale gelato prendi più volentieri?": [
+    "Cioccolato",
+    "Pistacchio",
+    "Nocciola",
+    "Stracciatella",
+    "Frutta",
+    "Non mangio gelato"
+  ],
+  "Quanto spesso ti senti davvero riposato/a al risveglio?": [
+    "1 (per niente)",
+    "2",
+    "3",
+    "4",
+    "5 (molto)"
+  ],
+  "Quanto è importante per te avere una casa ordinata?": [
+    "Per niente importante",
+    "Poco importante",
+    "Neutrale",
+    "Abbastanza importante",
+    "Molto importante"
+  ],
+  "Cosa ti farebbe stare meglio oggi?": [
+    "Una pausa",
+    "Una chiacchierata",
+    "Una passeggiata",
+    "Una soluzione pratica",
+    "Un abbraccio",
+    "Altro"
+  ],
+  "Quale tipo di contenuti su TikTok/shorts ti intrattiene?": [
+    "Commedia",
+    "Cucina",
+    "Fitness",
+    "Tech",
+    "Storie",
+    "Altro",
+    "Non uso"
+  ],
+  "Cosa ti stressa di più sul lavoro/studio?": [
+    "Scadenze",
+    "Ambiguità",
+    "Conflitti",
+    "Troppe cose insieme",
+    "Monotonia",
+    "Altro"
+  ],
+  "Mi piace stare da solo/a.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale canale preferisci per parlare di desideri e limiti?": [
+    "Di persona",
+    "Messaggi",
+    "Vocali",
+    "Dopo un po' di tempo",
+    "Preferisco non rispondere"
+  ],
+  "Mi piace prendermi cura degli altri.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Come preferisci le patate?": [
+    "Fritte",
+    "Al forno",
+    "Purè",
+    "Lesse",
+    "Non mi piacciono"
+  ],
+  "Quale app di messaggistica usi di più?": [
+    "WhatsApp",
+    "Telegram",
+    "Signal",
+    "Instagram DM",
+    "Messenger",
+    "Altro"
+  ],
+  "Quanto è importante per te parlare apertamente di sesso con un partner?": [
+    "Per niente",
+    "Poco",
+    "Abbastanza",
+    "Molto",
+    "Preferisco non rispondere"
+  ],
+  "Quale tipo di giornata preferisci?": [
+    "Impegnata",
+    "Equilibrata",
+    "Total relax",
+    "Dipende"
+  ],
+  "Quando cucini, cosa ti piace fare di più?": [
+    "Provare ricette nuove",
+    "Fare piatti semplici",
+    "Cucinare per altri",
+    "Meal prep",
+    "Non mi piace cucinare"
+  ],
+  "Mi sento rispettato/a nei miei confini.": [
+    "Per niente d'accordo",
+    "Poco d'accordo",
+    "Neutrale",
+    "Abbastanza d'accordo",
+    "Molto d'accordo"
+  ],
+  "Quale categoria di serie inizi più spesso?": [
+    "Mini-serie",
+    "Lunghe stagioni",
+    "Anime",
+    "Reality",
+    "Documentari",
+    "Altro"
+  ]
+}
