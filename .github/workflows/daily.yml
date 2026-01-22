@@ -3,7 +3,7 @@ name: Daily Telegram Poll
 on:
   schedule:
     - cron: "0 7 * * *"
-  workflow_dispatch:
+  
 
 jobs:
   run:
