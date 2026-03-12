@@ -22,19 +22,19 @@
     "Pratiche",
     "Altro"
   ],
-  "Quanto è importante per te sentirti capito/a?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Se un piccione ti fissasse male per 10 minuti, come reagisci?": [
+    "Cambio marciapiede",
+    "Lo fisso peggio",
+    "Gli chiedo scusa",
+    "Gli offro una briciola",
+    "Accetto il duello"
   ],
-  "Mi sento a mio agio nel dire 'no'.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se domani ti svegliassi con un'aura leggendaria, cosa sarebbe successo durante la notte?": [
+    "Ho litigato con un piccione e ho vinto",
+    "Ho aperto il frigo e mi ha scelto lui",
+    "Mi hanno nominato capo dei marciapiedi",
+    "Ho trovato 20 euro in una giacca del 2019",
+    "Ho detto 'ci penso io' e davvero l'ho fatto"
   ],
   "Quale browser usi più spesso?": [
     "Chrome",
@@ -85,12 +85,12 @@
     "Stampo poche",
     "Altro"
   ],
-  "Quanto è importante per te l'amicizia?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale oggetto meriterebbe di avere una barra della vita?": [
+    "Ciabatta",
+    "Caricatore del telefono",
+    "Tupperware macchiato",
+    "Auricolare sinistro",
+    "Telecomando del salotto"
   ],
   "Quale tipo di sport ti incuriosisce?": [
     "Arti marziali",
@@ -110,12 +110,12 @@
     "Altro",
     "Non seguo"
   ],
-  "Quanto ti interessa la privacy online?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "È una priorità"
+  "Se dovessi combattere usando solo cose da cucina, cosa scegli?": [
+    "Mestolo leggendario",
+    "Padella da boss finale",
+    "Frusta doppia",
+    "Coltello del burro per umiliare",
+    "Coperchio a mo' di scudo"
   ],
   "Quale tipo di cioccolato preferisci?": [
     "Fondente",
@@ -124,12 +124,12 @@
     "Gianduia",
     "Non mi piace il cioccolato"
   ],
-  "Preferisco la novità alla routine.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale tradimento fa più male?": [
+    "Finire le patatine e rimettere il sacchetto vuoto",
+    "Dire 'arrivo' quando sei ancora in doccia",
+    "Lasciare il volume TV a 11",
+    "Prendere l'ultimo crocché senza dire nulla",
+    "Spoilerare con 'tranquillo non ti dico niente'"
   ],
   "Quale tipo di skincare usi (se la usi)?": [
     "Nessuna",
@@ -245,26 +245,26 @@
     "Nessuna, grazie",
     "Dipende"
   ],
-  "Quanto spesso ti senti libero/a di essere te stesso/a?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale tragedia minima ti fa diventare il protagonista di un film drammatico?": [
+    "Caricatore al 2% in borsa",
+    "Shampoo finito a metà doccia",
+    "Pane finito proprio oggi",
+    "Ascensore che parte senza di te",
+    "Scontrino volante nel parcheggio"
   ],
-  "Quanto è importante per te sentirti utile?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale animale sarebbe il peggior coinquilino?": [
+    "Gallo motivazionale alle 5",
+    "Capra che assaggia tutto",
+    "Polpo che apre i cassetti",
+    "Pavone egocentrico",
+    "Procione ladro di snack"
   ],
-  "Quanto spesso ti prendi una pausa senza sensi di colpa?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale bug del corpo umano andrebbe patchato subito?": [
+    "Starnutire mentre cerchi di sembrare serio",
+    "Avere fame subito dopo aver lavato i denti",
+    "Dimenticare perché sei entrato in stanza",
+    "Sbadigliare quando qualcuno parla troppo",
+    "Sudare appena metti la felpa giusta"
   ],
   "Quale genere di film preferisci?": [
     "Commedia",
@@ -276,12 +276,12 @@
     "Romantico",
     "Altro"
   ],
-  "Quanto sei a tuo agio a dire 'no'?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Sto imparando"
+  "Che tipo di caos rappresenti al mattino?": [
+    "Zombie col caffè",
+    "CEO del ritardo",
+    "Fantasma in pigiama",
+    "Atleta del tasto snooze",
+    "Filosofo che fissa il muro"
   ],
   "Quale obiettivo sociale ti sta più a cuore?": [
     "Ambiente",
@@ -292,12 +292,12 @@
     "Altro",
     "Preferisco non rispondere"
   ],
-  "Quanto è importante per te sentirti creativo/a?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale bug dell'essere umano andrebbe patchato subito?": [
+    "Entrare in una stanza e dimenticare perché",
+    "Aprire il frigo sperando in novità",
+    "Cercare il telefono col telefono in mano",
+    "Salutare e andare dalla stessa parte",
+    "Rispondere 'anche tu' al cameriere"
   ],
   "Quale tipo di contenuti su YouTube ti interessa di più?": [
     "Intrattenimento",
@@ -308,26 +308,26 @@
     "Vlog",
     "Altro"
   ],
-  "Quanto spesso ti capita di fare movimento?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale figura faresti pur di non risultare maleducato?": [
+    "Mangiare una cosa che non volevi",
+    "Riderti una battuta che non hai capito",
+    "Salutare qualcuno che non conosci",
+    "Fare finta di ricordarti un nome",
+    "Accettare il volantino e poi custodirlo 8 secondi"
   ],
-  "Faccio fatica a fidarmi delle persone.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se la tua fame avesse una colonna sonora, quale sarebbe?": [
+    "Boss music",
+    "Jingle da supermercato",
+    "Opening anime",
+    "Marcia militare",
+    "Sax triste alle 2 di notte"
   ],
-  "Quale canale preferisci per ricevere informazioni importanti?": [
-    "Email",
-    "WhatsApp/Chat",
-    "Chiamata",
-    "Calendario",
-    "Altro"
+  "Se potessi cancellare un suono dalla Terra, quale sceglieresti?": [
+    "Vocale di 3 minuti in strada",
+    "Cucchiaino che sbatte nel bicchiere",
+    "Masticazione amplificata",
+    "Notifica singola ripetuta tre volte",
+    "Trapano alle 8:01"
   ],
   "Come prendi di solito il caffè?": [
     "Espresso",
@@ -345,26 +345,26 @@
     "Esperienza",
     "Dipende"
   ],
-  "Quanto spesso ti capita di cambiare idea dopo aver ascoltato qualcuno?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale animale avrebbe troppo potere se potesse parlare?": [
+    "Gabbiano",
+    "Oca",
+    "Chihuahua",
+    "Corvo",
+    "Gatto del vicino"
   ],
-  "Quanto spesso ti capita di avere voglia di cambiare tutto?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale oggetto sembra innocuo ma appena può ti umilia?": [
+    "Pellicola trasparente",
+    "Carta forno che si arrotola",
+    "Porta del box doccia",
+    "Cavo degli auricolari",
+    "Mollette stendibiancheria"
   ],
-  "La qualità del sonno influenza molto il mio umore.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale cosa è socialmente accettata ma profondamente sbagliata?": [
+    "Tagliare la pizza con le forbici dell'ufficio",
+    "Mandare il memo vocale in ascensore",
+    "Tenere i 300 sticker non letti",
+    "Chiamare 'apericena' una cena",
+    "Le sedie decorative scomode"
   ],
   "Quale stagione ti mette più di buon umore?": [
     "Primavera",
@@ -408,19 +408,19 @@
     "In team",
     "Dipende"
   ],
-  "Quanto è importante per te la privacy online?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale odore ti convince che la vita ha ancora senso?": [
+    "Pizza appena sfornata",
+    "Lenzuola pulite",
+    "Benzina da annusare male",
+    "Pioggia sull'asfalto",
+    "Caffè che salva l'anima"
   ],
-  "Quanto spesso ti senti in sintonia con la tua famiglia?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Se potessi bannare una frase per sempre, quale sarebbe?": [
+    "'Ci sentiamo'",
+    "'Un attimo'",
+    "'Ve lo giro in privato'",
+    "'È un attore sottovalutato'",
+    "'Non ho fame' prima di rubarti metà piatto"
   ],
   "Quale difetto ti dai più spesso (con onestà)?": [
     "Procrastinazione",
@@ -455,12 +455,12 @@
     "Creatività",
     "Altro"
   ],
-  "Quale frase descrive meglio il tuo approccio al sesso sicuro?": [
-    "Sempre",
-    "Quasi sempre",
-    "Dipende",
-    "Raramente",
-    "Preferisco non rispondere"
+  "Quale cosa ti farebbe pensare 'ok, l'universo ce l'ha con me'?": [
+    "Tost che salta appena ti allontani",
+    "Pioggia solo quando lavi la macchina",
+    "Semafori rossi in combo",
+    "Bancomat fuori servizio proprio lì",
+    "Autobus che arriva mentre stai pagando il caffè"
   ],
   "Quale tipo di pizza scegli più spesso?": [
     "Margherita",
@@ -470,12 +470,12 @@
     "Vegetariana",
     "Altro"
   ],
-  "Quanto ti interessa sperimentare in intimità?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale boss finale affronti più spesso nella vita?": [
+    "Il calzino spaiato",
+    "Il barattolo che non si apre",
+    "Il 'low battery' fuori casa",
+    "La password cambiata da te stesso",
+    "Il gruppo WhatsApp silenzioso ma minaccioso"
   ],
   "Quale ritmo preferisci in viaggio?": [
     "Sveglia presto e via",
@@ -520,12 +520,12 @@
     "Shopping",
     "Relax"
   ],
-  "Quanto spesso ti capita di fare pause durante la giornata?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale titolo sarebbe perfetto per la tua autobiografia scritta male?": [
+    "Ce l'avevo quasi",
+    "Tre idee buone e una pessima",
+    "Manuale di sopravvivenza alle mie scelte",
+    "Scusate il ritardo, anche metaforico",
+    "Tutto sotto controllo, credo"
   ],
   "Quale tipo di foto scatti in viaggio?": [
     "Paesaggi",
@@ -535,13 +535,12 @@
     "Dettagli",
     "Non scatto"
   ],
-  "Come definiresti la tua libido in questo periodo?": [
-    "Molto bassa",
-    "Bassa",
-    "Media",
-    "Alta",
-    "Molto alta",
-    "Preferisco non rispondere"
+  "Quale torto merita l'esilio immediato?": [
+    "Mangiare le olive della pizza altrui",
+    "Mettere il ketchup sulla carbonara",
+    "Guardare i reel col volume a 100",
+    "Dire 'non so chi sia' su una hit mondiale",
+    "Non restituire gli accendini"
   ],
   "Quale salsa per la pasta ti conquista di più?": [
     "Pomodoro",
@@ -569,12 +568,12 @@
     "Scelte rapide",
     "Altro"
   ],
-  "Quanto spesso ti capita di programmare la settimana?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale talento da NPC ti rappresenta di più?": [
+    "Essere già in fila senza sapere per cosa",
+    "Spuntare nei posti peggiori per parcheggiare",
+    "Sapere dove sono i tovaglioli",
+    "Comparire quando c'è da spostare una sedia",
+    "Dire 'boh' con autorevolezza"
   ],
   "Dove guardi più spesso video?": [
     "YouTube",
@@ -585,12 +584,12 @@
     "RAI/Mediaset",
     "Altro"
   ],
-  "Quanto ami i viaggi in solitaria?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Non ho mai provato"
+  "Quale leggenda metropolitana vuoi credere vera?": [
+    "I gatti parlano tra loro male di noi",
+    "Le zanzare hanno una blacklist",
+    "I calzini spariti vivono bene altrove",
+    "Esiste davvero la fila veloce al supermercato",
+    "Alcuni piccioni sono in smart working"
   ],
   "Se devi studiare, cosa ti aiuta di più?": [
     "Musica",
@@ -630,19 +629,19 @@
     "Limonata",
     "Altro"
   ],
-  "Quanto è importante per te la stabilità economica?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Se il tuo autocontrollo fosse un personaggio, chi sarebbe?": [
+    "Guardia svogliata",
+    "Monaco distratto",
+    "Buttafuori in ferie",
+    "NPC che ripete la stessa frase",
+    "Cugino che dice 'tranquillo' e peggiora tutto"
   ],
-  "Quanto spesso ti capita di sentirti sopraffatto/a?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale dettaglio ti fa sembrare ricco anche se non lo sei?": [
+    "Acqua in bottiglia di vetro",
+    "Candele che hanno un nome francese",
+    "Frigo con luce molto bianca",
+    "Pianta viva da più di due mesi",
+    "Carta fedeltà di un posto costoso"
   ],
   "Sei più tipo da mattina o da sera?": [
     "Mattina",
@@ -674,12 +673,12 @@
     "Commedia",
     "Altro"
   ],
-  "Quanto spesso ti capita di chiedere scusa quando serve?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale frase ti fa capire che la situazione sta degenerando?": [
+    "'Facciamo con calma'",
+    "'Non voglio fare polemica, ma...'",
+    "'Un attimo e arrivo'",
+    "'È una cosa velocissima'",
+    "'Fidati'"
   ],
   "In che formato leggi di più?": [
     "Cartaceo",
@@ -695,19 +694,19 @@
     "Live",
     "Altro"
   ],
-  "Mi capita di essere troppo severo/a con me stesso/a.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se il tuo telefono potesse giudicarti, su cosa ti attaccherebbe?": [
+    "Screenshot inutili",
+    "Sveglie con orari criminali",
+    "Foto sfocate ma emotive",
+    "Tab aperte come traumi",
+    "Messaggi riletti 17 volte"
   ],
-  "Quanto è importante per te la forma fisica?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Che tipo di spettatore sei davanti a una serie?": [
+    "Investigatorino che scopre tutto",
+    "Distratto che chiede i nomi",
+    "Maratoneta notturno",
+    "Commentatore tossico",
+    "Quello che salta l'intro e litiga"
   ],
   "Quale tipo di allenamento di forza preferisci?": [
     "Pesi liberi",
@@ -716,12 +715,12 @@
     "Kettlebell",
     "Nessuno"
   ],
-  "Quale tipo di contenuti leggi di più?": [
-    "Post brevi",
-    "Articoli lunghi",
-    "Newsletter",
-    "Forum",
-    "Non leggo molto"
+  "Quale tecnologia ti umilia più spesso?": [
+    "Stampante permalosa",
+    "Bluetooth indeciso",
+    "Wi-Fi teatrale",
+    "Face ID che dubita di me",
+    "Smart TV più stupida di un sasso"
   ],
   "Cosa ti manca più spesso?": [
     "Tempo",
@@ -777,12 +776,12 @@
     "Sticker/meme",
     "Dipende"
   ],
-  "Quanto ti pesa il giudizio su temi sessuali?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale competizione inutile vinceresti facile?": [
+    "Mangiare troppo presto la parte croccante",
+    "Fare castelli mentali in 4 secondi",
+    "Rimandare uscendo comunque in ritardo",
+    "Indovinare il microdramma dalla faccia",
+    "Aprire app e dimenticare perché"
   ],
   "Quale tipo di gioco mobile preferisci?": [
     "Puzzle",
@@ -791,12 +790,12 @@
     "Simulazione",
     "Non gioco"
   ],
-  "Ho un buon equilibrio tra lavoro/studio e vita privata.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale crimine culinario difenderai sempre?": [
+    "Ananas sulla pizza",
+    "Pasta scotta ma affettuosa",
+    "Patatine nella piadina",
+    "Latte e ghiaccio senza vergogna",
+    "Nutella dove non dovrebbe stare"
   ],
   "Quale beneficio sul lavoro è più importante per te?": [
     "Stipendio",
@@ -822,12 +821,12 @@
     "Non mi piacciono",
     "Non consumo alternative"
   ],
-  "Mi preoccupo troppo per ciò che pensano gli altri.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se un alieno ti chiedesse cos'è l'Italia, cosa gli mostri per primo?": [
+    "Una moka",
+    "Un parcheggio creativo",
+    "Una discussione sul caffè",
+    "Un matrimonio con 240 invitati",
+    "Una nonna che dice 'mangia'"
   ],
   "Come preferisci i carboidrati a cena?": [
     "Pasta",
@@ -837,12 +836,12 @@
     "Li evito",
     "Dipende"
   ],
-  "Mi sento a mio agio nel parlare delle mie emozioni.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale personaggio sarebbe pessimo in una escape room?": [
+    "L'amico che tocca tutto",
+    "Quello che legge male gli indizi",
+    "Il teorico che non fa nulla",
+    "Il claustrofobico rumoroso",
+    "La persona che propone di arrendersi"
   ],
   "Quale gesto ti fa sentire apprezzato/a?": [
     "Un complimento",
@@ -859,12 +858,12 @@
     "Radio",
     "Live"
   ],
-  "Quanto ti piace parlare con sconosciuti?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Dipende"
+  "Quale cibo ha il potenziale più alto di rovinarti la dignità?": [
+    "Cornetto troppo pieno",
+    "Riso che cade a mitraglia",
+    "Piadina che esplode dal lato sbagliato",
+    "Gelato al sole",
+    "Panino a tre strati non autorizzati"
   ],
   "Ti sei mai preso/a una pausa dalle app di dating?": [
     "Sì",
@@ -872,12 +871,12 @@
     "Dipende",
     "Preferisco non rispondere"
   ],
-  "Mi sento costante nel portare avanti i miei obiettivi.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale mini trauma condividiamo tutti?": [
+    "Il gradino che pensavi ci fosse",
+    "Inviare 'buon compleanno' alla chat sbagliata",
+    "Rispondere al prof con 'mamma'",
+    "Salire su una bilancia bugiarda",
+    "Vedere 'visualizzato' in 0.2 secondi"
   ],
   "Preferisci mare o montagna?": [
     "Mare",
@@ -907,12 +906,12 @@
     "Rosmarino",
     "Altro"
   ],
-  "Quanto spesso ti senti stressato/a per questioni economiche?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale micro-vittoria merita una fanfara immediata?": [
+    "Mettere il copripiumino bene al primo colpo",
+    "Azzeccare la coda giusta al supermercato",
+    "Parcheggiare bene senza rifare manovra",
+    "Trovare subito il lato del nastro",
+    "Riattaccare la cuffia caduta senza bestemmiare"
   ],
   "Quale tipo di app ti è più utile?": [
     "Produttività",
@@ -923,12 +922,12 @@
     "Studio",
     "Altro"
   ],
-  "Quanto spesso ti senti motivato/a a migliorarti?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale personaggio sarebbe il peggior coinquilino del mondo?": [
+    "Batman senza Alfred",
+    "Shrek in fase swamp mood",
+    "Goku affamato",
+    "Jack Sparrow in salotto",
+    "Barbie con 94 accessori"
   ],
   "Quale tipo di festa preferisci?": [
     "Piccola e intima",
@@ -961,19 +960,19 @@
     "Salse",
     "Non mangio insalata"
   ],
-  "Quanto spesso ti senti grato/a per qualcosa di semplice?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale legge non scritta andrebbe resa ufficiale?": [
+    "Chi ascolta il vocale in vivavoce paga il caffè a tutti",
+    "Chi blocca il corridoio del supermercato perde il carrello",
+    "Chi dice 'ci organizziamo' deve organizzare davvero",
+    "Chi parcheggia male legge i messaggi sul parabrezza",
+    "Chi spoilera lava i piatti per un mese"
   ],
-  "Mi prendo abbastanza cura di me.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale suono segnala immediatamente guai?": [
+    "Silenzio dopo un tonfo",
+    "Notifica del capo",
+    "Rutto del frigo vecchio",
+    "Colpo secco in bagno",
+    "Il 'toc' del telefono che cade"
   ],
   "Hai un obiettivo economico chiaro per quest'anno?": [
     "Sì",
@@ -981,19 +980,19 @@
     "Dipende",
     "Preferisco non rispondere"
   ],
-  "Quanto spesso ti senti soddisfatto/a di come stai gestendo il tuo tempo?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Se dovessi essere un NPC, che frase ripeteresti sempre?": [
+    "'Bro manca un euro'",
+    "'Non dovevi farlo'",
+    "'Ci penso un attimo'",
+    "'Hai provato a spegnere e riaccendere?'",
+    "'A quest'ora? Coraggioso'"
   ],
-  "Mi sento più energico/a dopo aver fatto movimento.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale qualità conta davvero in un amico?": [
+    "Che ti passa il meme giusto",
+    "Che sa tacere nei momenti giusti",
+    "Che ti copre le cazzate minori",
+    "Che riporta indietro il carrello",
+    "Che non fa video in verticale male"
   ],
   "Con chi preferisci viaggiare?": [
     "Da solo/a",
@@ -1017,12 +1016,12 @@
     "Dolci",
     "Altro"
   ],
-  "Mi sento a mio agio a chiedere aiuto.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale posto random potrebbe diventare romanticissimo per errore?": [
+    "Corsia surgelati",
+    "Parcheggio dell'Ikea",
+    "Lavanderia self",
+    "Fila alla posta",
+    "Area cani senza cane"
   ],
   "Quale abitudine vorresti migliorare per prima?": [
     "Sonno",
@@ -1032,27 +1031,26 @@
     "Gestione stress",
     "Altro"
   ],
-  "Quanto spesso ti capita di essere duro/a con te stesso/a?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale invenzione inutile compreresti comunque con orgoglio?": [
+    "Mini ombrello per piccioni",
+    "Forbici per tagliare solo scontrini",
+    "Sveglia che ti insulta con eleganza",
+    "Custodia per banana rigida e minacciosa",
+    "Timbro personale con scritto 'te l'avevo detto'"
   ],
-  "Che tipo di persone ti 'stancano' di più?": [
-    "Pessimisti",
-    "Invadenti",
-    "Arroganti",
-    "Incoerenti",
-    "Sempre in ritardo",
-    "Altro"
+  "Quale luogo puzza di caos anche quando è pulito?": [
+    "Retro del kebab alle 23",
+    "Sala d'attesa di un dentista alle 8",
+    "Camerino di un negozio in saldo",
+    "Bagagliaio di una macchina di famiglia",
+    "Ascensore di un condominio litigioso"
   ],
-  "Quanto è importante per te viaggiare?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale frase ti fa capire che sta per nascere una cazzata enorme?": [
+    "'Fidati'",
+    "'Che vuoi che succeda'",
+    "'Nessuno se ne accorge'",
+    "'Solo un attimo'",
+    "'Ho avuto un'idea'"
   ],
   "Preferisci dolce o salato?": [
     "Dolce",
@@ -1115,45 +1113,45 @@
     "Mi imbarazza",
     "Altro"
   ],
-  "Quanto spesso ti senti ascoltato/a dalle persone intorno a te?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale cosa fai e subito dopo ti chiedi perché l'hai fatta?": [
+    "Aprire il frigo senza un piano",
+    "Controllare l'ora sul telefono e dimenticarla",
+    "Dire 'ultima puntata' a mezzanotte",
+    "Cliccare 'ricorda password' su un pc altrui",
+    "Toccare se la piastra è davvero calda"
   ],
-  "Quanto spesso ti capita di mangiare frutta/verdura?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale potere avrebbe il tuo peggior nemico interiore?": [
+    "Far arrivare i dubbi sotto la doccia",
+    "Farti ricordare le figuracce alle 2:17",
+    "Convincerti che manca ancora tempo",
+    "Farti rileggere un messaggio 9 volte",
+    "Scegliere la corsia più lenta per te"
   ],
   "Preferisci routine o novità?": [
     "Routine",
     "Novità",
     "Un equilibrio"
   ],
-  "Sono soddisfatto/a della mia situazione attuale.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se il sonno fosse una valuta, come saresti messo?": [
+    "Milionario sospetto",
+    "Classe media stanca",
+    "Debitore cronico",
+    "Bancarotta emotiva",
+    "Vivo a rate"
   ],
-  "Mi piace imparare cose nuove.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale situazione ti trasforma in un avvocato del nulla?": [
+    "Difendere un film brutto che ami",
+    "Spiegare perché la pizza fredda ha dignità",
+    "Sostenere che il riposino non è pigrizia",
+    "Giustificare l'acquisto di una felpa inutile",
+    "Argomentare contro il calendario delle verdure"
   ],
-  "Quanto spesso ti capita di confrontarti con gli altri sui social?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale oggetto meriterebbe una versione premium per adulti stanchi?": [
+    "Borsa dell'acqua calda con Wi‑Fi",
+    "Calzino che si accoppia da solo",
+    "Chiave di casa con GPS emotivo",
+    "Tupper che si richiude senza lotta",
+    "Sedia che applaude quando ti siedi"
   ],
   "Come impari meglio?": [
     "Guardando video",
@@ -1196,12 +1194,12 @@
     "Investimenti",
     "Altro"
   ],
-  "Che tipo di capo/coach preferisci?": [
-    "Esigente",
-    "Supportivo",
-    "Autonomo (poche interferenze)",
-    "Molto presente",
-    "Dipende"
+  "Quale potere da zia italiana vorresti sbloccare?": [
+    "Capire se hai mangiato abbastanza con uno sguardo",
+    "Offenderti senza alzare la voce",
+    "Trovare sconti nascosti",
+    "Portarti cibo anche se dici no",
+    "Sapere tutto del vicinato"
   ],
   "Se potessi dedicare un'intera giornata a una cosa, cosa sceglieresti?": [
     "Riposo",
@@ -1211,12 +1209,12 @@
     "Amici/famiglia",
     "Progetto personale"
   ],
-  "Quanto spesso ti capita di sentirti solo/a anche in mezzo alla gente?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale bug sociale ti manda in tilt?": [
+    "Salutare due volte la stessa persona",
+    "Capire tardi che non stavano parlando con te",
+    "Camminare nella stessa direzione di uno sconosciuto",
+    "Restare in chiamata senza sapere come chiuderla",
+    "Incontrare qualcuno subito dopo averlo salutato male"
   ],
   "Quale tipo di allenamento preferisci?": [
     "Pesi/palestra",
@@ -1240,12 +1238,12 @@
     "Instant",
     "Nessuna"
   ],
-  "Mi piace pianificare le mie giornate.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale app ti conosce troppo bene?": [
+    "TikTok",
+    "Maps quando sbagli strada",
+    "Spotify alle 2 di notte",
+    "YouTube dopo 3 click",
+    "Instagram dopo una ricerca sbagliata"
   ],
   "Quale tipo di evento sportivo guarderesti dal vivo?": [
     "Calcio",
@@ -1270,12 +1268,12 @@
     "Nessuna",
     "Preferisco non rispondere"
   ],
-  "Quanto piccante ami il cibo?": [
-    "Per niente",
-    "Leggermente",
-    "Medio",
-    "Molto",
-    "Estremo"
+  "Quale bugia bianca usi più spesso?": [
+    "'Sto arrivando'",
+    "'L'avevo quasi finito'",
+    "'Non l'ho visto'",
+    "'Tra 5 minuti spengo'",
+    "'Era nel carrello da tempo'"
   ],
   "Quale stile di pizza preferisci?": [
     "Napoletana",
@@ -1285,26 +1283,26 @@
     "Senza glutine",
     "Non mi piace la pizza"
   ],
-  "Quanto è importante per te imparare continuamente?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Se dovessi scegliere un nemico iconico, quale prendi?": [
+    "Una zanzara immortale",
+    "Il tizio col laser in sala",
+    "Il cane che ti odia senza motivo",
+    "La stampante che sente la paura",
+    "Il vicino col trapano domenicale"
   ],
-  "So riconoscere quando ho bisogno di riposo.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale comfort food ha il buffo diritto di risolvere tutto?": [
+    "Pizza unta da cartone",
+    "Toast bruciacchiato",
+    "Gelato mangiato in piedi",
+    "Patate al forno senza controllo",
+    "Ramen istantaneo alle ore sbagliate"
   ],
-  "Quale motivo ti fa cambiare idea più spesso?": [
-    "Nuove informazioni",
-    "Esperienza diretta",
-    "Confronto con altri",
-    "Tempo",
-    "Raramente cambio idea"
+  "Quale menzogna innocua dici più facilmente?": [
+    "'Sono quasi arrivato'",
+    "'Non avevo visto il messaggio'",
+    "'Non ho fame' con la pizza davanti",
+    "'Cinque minuti e parto'",
+    "'No no, figurati'"
   ],
   "Se dovessi scegliere un superpotere, quale?": [
     "Invisibilità",
@@ -1357,19 +1355,19 @@
     "Alterno",
     "Vado a caso"
   ],
-  "Quanto è importante per te la comunicazione in una relazione?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale gesto minimo ti fa innamorare del genere umano?": [
+    "Chi raccoglie la moneta caduta a uno sconosciuto",
+    "Chi aspetta l'ascensore",
+    "Chi condivide la password del Wi-Fi",
+    "Chi ti avvisa che hai la zip aperta",
+    "Chi non ti manda vocali in bici"
   ],
-  "Quanto spesso ti capita di fare qualcosa solo per te?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale cosa sembra gratis ma la paghi con l'anima?": [
+    "Trasloco con amici",
+    "Offerta telefonica da capire",
+    "Prova gratuita che dimentichi",
+    "Montaggio mobile con istruzioni nordiche",
+    "Passaggio veloce al centro commerciale"
   ],
   "Quale tipo di stretching preferisci?": [
     "Breve",
@@ -1448,19 +1446,19 @@
     "Delivery",
     "Non ho pausa"
   ],
-  "Quanto è importante il consenso esplicito in intimità?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Se la tua pazienza fosse un elettrodomestico, quale sarebbe?": [
+    "Tostapane nervoso",
+    "Frullatore da guerra",
+    "Microonde con due tasti",
+    "Lavatrice che vibra troppo",
+    "Ventilatore eroico"
   ],
-  "Quanto spesso ti capita di staccare dal telefono?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale stanza di casa ha più energia da boss finale?": [
+    "Ripostiglio",
+    "Bagno quando sei in ritardo",
+    "Cucina dopo cena",
+    "Camera quando devi piegare i vestiti",
+    "Balcone pieno di cose 'temporanee'"
   ],
   "Quale tipo di bevanda preferisci in palestra?": [
     "Acqua",
@@ -1507,12 +1505,12 @@
     "Mediatore",
     "Osservatore"
   ],
-  "Quale tipo di complimento preferisci fare?": [
-    "Sincero e diretto",
-    "Ironico",
-    "Su dettagli",
-    "Con azioni più che parole",
-    "Non faccio complimenti spesso"
+  "Se la tua settimana fosse un panino, cosa ci troveremmo dentro?": [
+    "Troppa salsa e poche certezze",
+    "Ingredienti buoni ma messi a caso",
+    "Solo carboidrati emotivi",
+    "Un cetriolino che non avevi chiesto",
+    "Il morso migliore arriva troppo tardi"
   ],
   "Quale hobby ti rilassa di più?": [
     "Lettura",
@@ -1568,12 +1566,12 @@
     "Altro",
     "Non mangio panini"
   ],
-  "Quanto spesso ti capita di andare a letto a un orario regolare?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale dispetto piccolo ma pulito faresti al tuo ex nemico di calcetto?": [
+    "Gli invertirei il lato freddo del cuscino",
+    "Gli cambierei tutte le password in cose wholesome",
+    "Gli metterei i calzini umidi psicologicamente",
+    "Gli sposterei la playlist sulla modalità shuffle eterna",
+    "Gli farei credere che il microonde va a voce"
   ],
   "Quale sport segui di più?": [
     "Calcio",
@@ -1589,12 +1587,12 @@
     "On-ear",
     "Non uso cuffie"
   ],
-  "Quanto è importante per te l'intimità fisica?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale abitudine dovrebbe farti perdere punti sociali?": [
+    "Guardare il telefono mentre qualcuno parla",
+    "Mandare screen senza contesto",
+    "Lasciare 1 sorso d'acqua in frigo",
+    "Usare 'bro' con il commercialista",
+    "Fare spoiler camuffati da domande"
   ],
   "Quale tipo di insalata preferisci?": [
     "Mista",
@@ -1619,12 +1617,12 @@
     "Vado a sentimento",
     "Rimando"
   ],
-  "Riesco a concentrarmi senza distrazioni.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale outfit dà energia da boss finale?": [
+    "Accappatoio e ciabatte",
+    "Tuta nera e occhiaie",
+    "Camicia aperta male",
+    "Pigiama di flanella con sguardo vuoto",
+    "Vestito elegante con zaino Decathlon"
   ],
   "Quale tipo di festa ti piace organizzare?": [
     "Cena",
@@ -1660,27 +1658,26 @@
     "Non mangio carne",
     "Dipende"
   ],
-  "Quanto spesso ti capita di fare il primo passo (scrivere, chiamare, proporre)?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale complotto minuscolo ti senti pronto a sostenere senza prove?": [
+    "I semafori ti riconoscono",
+    "Le stampanti avvertono la paura",
+    "I calzini scappano in gruppo",
+    "I cucchiaini belli spariscono per ambizione",
+    "Il frigo fa il simpatico solo con gli ospiti"
   ],
-  "Quanto spesso ti senti in sintonia con i tuoi amici?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Quale peccato capitale commetti più volentieri?": [
+    "Gola con orgoglio",
+    "Accidia professionale",
+    "Ira solo in coda",
+    "Superbia ironica",
+    "Invidia da vetrina"
   ],
-  "Quale email usi di più?": [
-    "Gmail",
-    "Outlook/Hotmail",
-    "Yahoo",
-    "iCloud",
-    "Altro",
-    "Preferisco non rispondere"
+  "Quale lavoro sarebbe perfetto per uno che vuole solo farsi i fatti degli altri legalmente?": [
+    "Portinaio poetico",
+    "Addetto ai pacchi sospetti",
+    "Tecnico ascensori chiacchierone",
+    "Cassiere di minimarket notturno",
+    "Barista di stazione con memoria assoluta"
   ],
   "Quale piatto tipico italiano scegli più volentieri?": [
     "Lasagne",
@@ -1698,19 +1695,19 @@
     "Pesca/albicocca",
     "Altro"
   ],
-  "Mi piace improvvisare.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se la tua coscienza avesse una notifica push, cosa direbbe?": [
+    "'Non lo fare, cretino'",
+    "'Questo finirà in una storia'",
+    "'Ricordati che esistono conseguenze'",
+    "'Hai già imparato nulla l'ultima volta?'",
+    "'Screenshotta per sicurezza'"
   ],
-  "Mi piace avere una routine.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale scena ti fa capire che due persone sono già amici veri?": [
+    "Si insultano con affetto",
+    "Si passano il telefono sbloccato",
+    "Mangiano dal piatto dell'altro",
+    "Stanno in silenzio senza disagio",
+    "Si mandano foto orribili"
   ],
   "Quale tipo di agenda preferisci?": [
     "Giornaliera",
@@ -1745,12 +1742,12 @@
     "Improvvisare",
     "Un mix"
   ],
-  "Quanto ti senti a tuo agio a esprimere i tuoi confini?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale invenzione sembra uscita da un delirio ma funziona?": [
+    "La coperta con le maniche",
+    "Il ventilatore USB",
+    "La pizza col cornicione ripieno",
+    "Il bidet",
+    "Le crocs foderate"
   ],
   "Quale tipo di scarico stress preferisci?": [
     "Sport",
@@ -1760,12 +1757,12 @@
     "Cibo",
     "Altro"
   ],
-  "Quanto spesso ti capita di rimandare qualcosa che sai essere importante?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale gesto ti fa capire che una persona è pericolosamente competente?": [
+    "Apre il sacchetto al primo colpo",
+    "Sa piegare il lenzuolo con angoli",
+    "Trova parcheggio senza commentare",
+    "Sa dove sono i documenti",
+    "Taglia la pizza in parti giuste"
   ],
   "Qual è la tua fascia oraria più produttiva?": [
     "Prima mattina",
@@ -1780,12 +1777,12 @@
     "Orari regolari",
     "Orari variabili"
   ],
-  "Quanto spesso ti capita di avere paura di sbagliare?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale peccato urbano andrebbe punito con lavori socialmente utili?": [
+    "Mettere musica dal telefono in pubblico",
+    "Fermarsi in cima alle scale",
+    "Occupare due posti auto col SUV emozionale",
+    "Usare il monopattino come arma narrativa",
+    "Mangiare sul treno roba troppo odorosa"
   ],
   "Qual è il tuo accessorio preferito?": [
     "Orologio",
@@ -1795,19 +1792,19 @@
     "Borsa/zaino",
     "Nessuno"
   ],
-  "Che tipo di regali fai più spesso?": [
-    "Esperienze",
-    "Cose pratiche",
-    "Cose personalizzate",
-    "Dolci/cibo",
-    "Non faccio regali spesso"
+  "Quale scena sarebbe il trailer perfetto della tua vita attuale?": [
+    "Io che apro app per non aprire problemi",
+    "Io che dico 'tranquillo' senza esserlo",
+    "Io che faccio la lista e perdo la lista",
+    "Io che guardo il meteo e mi vesto comunque male",
+    "Io che cerco pace vicino ai cantieri"
   ],
-  "Quanto spesso ti senti in equilibrio tra doveri e piaceri?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Quale cibo difenderesti anche davanti a un tribunale gastronomico?": [
+    "Toast bruciacchiato ma sincero",
+    "Carbonara fatta male ma con amore",
+    "Patatine nel gelato",
+    "Pasta fredda da frigo alle 23",
+    "Biscotti rotti che sanno di vittoria"
   ],
   "Quale tipo di allenamento cardio preferisci?": [
     "Corsa",
@@ -1830,19 +1827,19 @@
     "Dipende",
     "Preferisco non rispondere"
   ],
-  "Mi piace stare in compagnia.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Se potessi avere un assistente personale solo per una cosa, quale scegli?": [
+    "Piegare i vestiti",
+    "Prenotare al posto mio",
+    "Rispondere ai messaggi imbarazzanti",
+    "Cercare chiavi/portafoglio",
+    "Capire cosa cucinare"
   ],
-  "Quanto spesso ti capita di dire 'sì' quando vorresti dire 'no'?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale categoria di gente sembra spawnare sempre nel momento sbagliato?": [
+    "Quelli che ti vedono quando hai le buste peggiori",
+    "Chi vuole chiacchierare mentre sei di corsa",
+    "Il vicino con la domanda lunga",
+    "L'amico che manda link senza contesto",
+    "Il parente che apre discorsi a tavola"
   ],
   "Quale genere musicale ascolti più spesso?": [
     "Pop",
@@ -1879,13 +1876,12 @@
     "Speziato",
     "Non uso profumi"
   ],
-  "Qual è il tuo stile di comunicazione quando ti interessa qualcuno?": [
-    "Diretto",
-    "Scherzoso",
-    "Cauto",
-    "Molto presente",
-    "Mi faccio desiderare",
-    "Dipende"
+  "Quale mestiere inventato faresti benissimo?": [
+    "Assaggiatore di focacce tristi",
+    "Selezionatore di meme affidabili",
+    "Consulente per scuse credibili",
+    "DJ di suonerie inutili",
+    "Tester di divani"
   ],
   "Quale hobby ti piacerebbe iniziare?": [
     "Fotografia",
@@ -1904,12 +1900,12 @@
     "Non disturbare",
     "Dipende"
   ],
-  "Quanto è importante per te la libertà di scelta?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale legge non scritta andrebbe messa in Costituzione?": [
+    "Chi finisce il caffè rifà il caffè",
+    "Chi propone il piano organizza il piano",
+    "Chi ha l'ombrello aspetta",
+    "Chi parcheggia storto medita",
+    "Chi fa il danno pulisce pure"
   ],
   "In amicizia, cosa conta di più?": [
     "Lealtà",
@@ -1941,19 +1937,19 @@
     "Pasta integrale",
     "Altro"
   ],
-  "Quanto spesso ti concedi tempo per un hobby?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Se la tua dignità fosse un oggetto, dove l'hai lasciata l'ultima volta?": [
+    "Alla cassa self mentre pesavo le banane",
+    "In palestra dopo il secondo esercizio",
+    "Sul ghiaccio davanti all'ufficio",
+    "Nel gruppo chat dopo un messaggio sbagliato",
+    "Dal barbiere quando ho detto 'fai tu'"
   ],
-  "Quanto spesso ti senti in sintonia con il tuo partner (se presente)?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Se potessi scegliere una sigla personale quando entri in una stanza, quale vibe avrebbe?": [
+    "Wrestler che spacca",
+    "Soap opera drammatica",
+    "Anime con rallenty",
+    "Reality trash di lusso",
+    "Documentario sugli squali"
   ],
   "Quale abitudine ti fa sentire più 'adulto/a'?": [
     "Pagare bollette",
@@ -1984,19 +1980,19 @@
     "Spettacolo",
     "Non seguo news"
   ],
-  "Quanto spesso ti capita di sentirti ispirato/a da qualcuno?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale attività ha più vibe da 'non dovevo iniziare oggi'?": [
+    "Pulire una singola mensola e trovare il passato",
+    "Sistemare le foto nel telefono",
+    "Controllare le spese del mese",
+    "Aprire il cassetto dei cavi",
+    "Provare jeans vecchi per sport"
   ],
-  "Quanto spesso ti capita di bere abbastanza acqua?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale frase suona educata ma in realtà è una minaccia morbida?": [
+    "'Vediamo come va'",
+    "'Ci aggiorniamo'",
+    "'Fai come credi'",
+    "'Interessante...'",
+    "'Nessun problema'"
   ],
   "Che tipo di feedback preferisci?": [
     "Diretto e rapido",
@@ -2012,12 +2008,12 @@
     "Verdure",
     "Non mangio risotto"
   ],
-  "Quanto contano per te i preliminari in un rapporto?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale frase da adulto ti ha ferito più del previsto?": [
+    "'Ne riparliamo lunedì'",
+    "'Serve lo SPID'",
+    "'È in PDF compilabile'",
+    "'Bisogna prenotare'",
+    "'Fa parte del contratto'"
   ],
   "Qual è il tuo modo preferito di ricaricare le energie?": [
     "Stare da solo/a",
@@ -2051,12 +2047,12 @@
     "Cloud",
     "Nessuno"
   ],
-  "Quanto spesso ti capita di fare un complimento sincero?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale dettaglio ti farebbe scegliere un capo di stato a caso?": [
+    "Come mangia il cornetto",
+    "Se rimette a posto il carrello",
+    "Come risponde ai vocali lunghi",
+    "Se saluta il cane prima del padrone",
+    "Come parcheggia in retromarcia"
   ],
   "Quale souvenir ti piace portare a casa?": [
     "Magneti",
@@ -2101,12 +2097,12 @@
     "Fantascienza",
     "Altro"
   ],
-  "Mi fido facilmente delle persone.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale personaggio da film non inviteresti mai a cena?": [
+    "Il genio che parla solo per metafore",
+    "Il protagonista che rompe tutto",
+    "Il detective che sospetta di tutti",
+    "La persona che dice 'interessante' al posto di mangiare",
+    "Il villain carismatico che monopolizza"
   ],
   "Quale tipo di doccia preferisci?": [
     "Calda",
@@ -2123,12 +2119,12 @@
     "Schermo",
     "Altro"
   ],
-  "Quanto è importante per te avere tempo libero ogni settimana?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale potere mentale ti servirebbe durante le discussioni?": [
+    "Ricordare gli esempi giusti al momento giusto",
+    "Saper chiudere con eleganza",
+    "Capire quando mollare",
+    "Tradurre il sarcasmo in sottotitoli",
+    "Mutare i presenti per 8 secondi"
   ],
   "Quale verdura metteresti ovunque?": [
     "Zucchine",
@@ -2138,12 +2134,12 @@
     "Melanzane",
     "Altro"
   ],
-  "Quanto spesso ti senti contento/a del tuo corpo?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Quale snack ti rappresenta di più?": [
+    "Tarallo testardo",
+    "Patatina caotica",
+    "Kinder Bueno emotivo",
+    "Cracker affidabile",
+    "Oliva divisiva"
   ],
   "Quale bevanda calda ti rilassa di più?": [
     "Tè",
@@ -2224,12 +2220,12 @@
     "Non traccio",
     "Vorrei iniziare"
   ],
-  "Che rapporto hai con gli abbonamenti?": [
-    "Ne ho pochi",
-    "Ne ho molti",
-    "Li controllo spesso",
-    "Li dimentico",
-    "Non ne ho"
+  "Quale pacco mentale meriterebbe il rimborso immediato?": [
+    "Quello prima di mandare un messaggio normale",
+    "Quello dopo aver detto una cosa banalissima",
+    "Quello prima di guardare l'estratto conto",
+    "Quello quando qualcuno dice 'dobbiamo parlare'",
+    "Quello per scegliere cosa ordinare"
   ],
   "Cosa ti fa sentire 'a casa'?": [
     "Persone",
@@ -2255,12 +2251,12 @@
     "Pistacchi",
     "Non mangio frutta secca"
   ],
-  "Quanto spesso ti capita di tenere la casa in ordine?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale situazione ti fa venire voglia di sparire come un ninja da discount?": [
+    "Entrare nel negozio e non comprare nulla",
+    "Rivedere il meccanico dopo aver ignorato il rumore",
+    "Capire che il compleanno era oggi",
+    "Accorgerti che il microfono era acceso",
+    "Fingere di conoscere il brindisi giusto"
   ],
   "Quale tipo di pausa ti aiuta di più?": [
     "Caffè",
@@ -2295,26 +2291,26 @@
     "Messaggio",
     "Altro"
   ],
-  "Quanto contano per te i baci in una relazione?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale scelta ti giudica davvero come persona?": [
+    "Come pieghi la pizza",
+    "Dove metti il ketchup",
+    "Se lavi i piatti subito",
+    "Se rispondi 'ok' o con sticker",
+    "Se restituisci il carrello"
   ],
-  "Quanto ti piace conoscere persone nuove?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Dipende dal contesto"
+  "Quale segnale ti fa capire che una festa sta degenerando bene?": [
+    "Parte una hit del 2012",
+    "Qualcuno tira fuori un mazzo di carte",
+    "Si discute su chi mette la musica",
+    "Appare una teglia misteriosa",
+    "Uno propone karaoke senza microfono"
   ],
-  "Quanto spesso ti capita di uscire all'aperto?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale professione avrebbe il tuo gatto se dovesse pagare l'affitto?": [
+    "Consulente passivo-aggressivo",
+    "Tester di scatole",
+    "Guardia notturna di corridoi",
+    "Influencer del sonno",
+    "Ispettore delle superfici calde"
   ],
   "Quando scegli bevanda serale, cosa preferisci?": [
     "Tisana/infuso",
@@ -2324,12 +2320,12 @@
     "Niente",
     "Altro"
   ],
-  "Le notifiche mi rubano più tempo di quanto vorrei.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale frase suona come una minaccia anche se non lo è?": [
+    "'Dopo ti dico'",
+    "'Va bene'",
+    "'Fai come vuoi'",
+    "'Ci pensiamo'",
+    "'Interessante'"
   ],
   "Come preferisci conoscere qualcuno?": [
     "Dal vivo",
@@ -2397,20 +2393,19 @@
     "Altro",
     "Non faccio colazione salata"
   ],
-  "Mi sento a mio agio nel parlare di sesso e consenso.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Che tipo di fame ti colpisce peggio?": [
+    "Fame da frigo aperto",
+    "Fame da supermercato senza lista",
+    "Fame da post-doccia",
+    "Fame da film iniziato",
+    "Fame da mezzanotte filosofica"
   ],
-  "Quale tipo di notifiche ti infastidisce di più?": [
-    "Pubblicità",
-    "Social",
-    "Email",
-    "Giochi",
-    "News",
-    "Nessuna"
+  "Quale luogo ha più probabilità di regalarti una storia assurda da raccontare?": [
+    "Lidl alle 18:40",
+    "Festa di paese col panino unto",
+    "Sala d'attesa della motorizzazione",
+    "Treno regionale di domenica",
+    "Ferramenta il sabato mattina"
   ],
   "Quale tipo di palestra preferiresti?": [
     "Tradizionale",
@@ -2466,12 +2461,12 @@
     "Altro",
     "Non uso"
   ],
-  "Quanto è importante per te l'intimità emotiva?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale idea stupida sembra geniale solo dopo mezzanotte?": [
+    "Tagliarmi i capelli da solo",
+    "Comprare una cosa inutile ma spirituale",
+    "Scrivere a qualcuno che non sento da anni",
+    "Riorganizzare tutta la stanza",
+    "Preparare un toast gourmet con ingredienti discutibili"
   ],
   "Quale servizio di musica usi?": [
     "Spotify",
@@ -2525,12 +2520,12 @@
     "Dipende",
     "Preferisco non rispondere"
   ],
-  "Quanto spesso ti capita di fare una cosa creativa?": [
-    "Mai",
-    "Raramente",
-    "Qualche volta",
-    "Spesso",
-    "Quasi ogni giorno"
+  "Quale titolo vincerebbe alle Olimpiadi del disagio quotidiano?": [
+    "Saltare sul letto per spegnere la luce",
+    "Dire 'buon appetito' a uno che sta pagando",
+    "Salutare uno specchio",
+    "Aprire la fotocamera frontale per sbaglio",
+    "Scrivere 'grazie mille' al corriere sbagliato"
   ],
   "Come ti organizzi di solito?": [
     "Agenda/cartaceo",
@@ -2546,12 +2541,12 @@
     "Bonifico",
     "Altro"
   ],
-  "Sento di avere qualcuno su cui contare.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale oggetto dovrebbe avere il diritto di scioperare?": [
+    "La sveglia",
+    "Il mouse da ufficio",
+    "La sedia pieghevole",
+    "Il portachiavi pesantissimo",
+    "Il tostapane che lavora troppo"
   ],
   "Quale formato di dessert preferisci?": [
     "Torta",
@@ -2590,11 +2585,12 @@
     "Second hand",
     "Non mi piace shopping"
   ],
-  "Quale approccio preferisci alle notifiche?": [
-    "Tutte attive",
-    "Solo essenziali",
-    "Quasi tutte off",
-    "Modalità non disturbare spesso"
+  "Quale regola da nonna salverebbe il pianeta meglio di molte app?": [
+    "Portati una felpa e smettila di fare il cinema",
+    "Mangia prima di uscire che fuori spendi",
+    "Spegni quella luce che non possiedi l'Enel",
+    "Non buttare, potrebbe servire nel 2041",
+    "Se non sai cosa dire, porta un dolce"
   ],
   "Quale gelato prendi più volentieri?": [
     "Cioccolato",
@@ -2604,19 +2600,19 @@
     "Frutta",
     "Non mangio gelato"
   ],
-  "Quanto spesso ti senti davvero riposato/a al risveglio?": [
-    "1 (per niente)",
-    "2",
-    "3",
-    "4",
-    "5 (molto)"
+  "Se una chat di gruppo diventasse una serie TV, chi saresti?": [
+    "Quello che manda meme e sparisce",
+    "Il regista dei piani che saltano",
+    "La comparsa che legge e basta",
+    "Il protagonista del 'ragazzi scusate il ritardo'",
+    "L'antagonista che propone le 7:30"
   ],
-  "Quanto è importante per te avere una casa ordinata?": [
-    "Per niente importante",
-    "Poco importante",
-    "Neutrale",
-    "Abbastanza importante",
-    "Molto importante"
+  "Quale dettaglio ti fa sembrare subito sospetto?": [
+    "Avere troppe penne uguali",
+    "Dire 'fidati di me' da fermo",
+    "Tenere le mani dietro la schiena",
+    "Scrivere con troppi punti di sospensione",
+    "Portarti dietro un quaderno senza spiegazioni"
   ],
   "Cosa ti farebbe stare meglio oggi?": [
     "Una pausa",
@@ -2643,12 +2639,12 @@
     "Monotonia",
     "Altro"
   ],
-  "Mi piace stare da solo/a.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale cazzata sembra piccola ma può distruggerti?": [
+    "Dire 'io l'avrei fatto così' a chi cucina",
+    "Appoggiare qualcosa sul tetto dell'auto",
+    "Sederti sul letto coi jeans",
+    "Aprire il frigo durante una litigata",
+    "Pronunciare male il nome del cane"
   ],
   "Quale canale preferisci per parlare di desideri e limiti?": [
     "Di persona",
@@ -2657,12 +2653,12 @@
     "Dopo un po' di tempo",
     "Preferisco non rispondere"
   ],
-  "Mi piace prendermi cura degli altri.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale prova dovrebbe esistere alle Olimpiadi della vita?": [
+    "Fare il letto in 14 secondi",
+    "Azzeccare la corsia giusta al supermercato",
+    "Capire chi suona al citofono",
+    "Entrare nella USB al primo verso",
+    "Aprire il sacchetto senza strapparlo male"
   ],
   "Come preferisci le patate?": [
     "Fritte",
@@ -2679,12 +2675,12 @@
     "Messenger",
     "Altro"
   ],
-  "Quanto è importante per te parlare apertamente di sesso con un partner?": [
-    "Per niente",
-    "Poco",
-    "Abbastanza",
-    "Molto",
-    "Preferisco non rispondere"
+  "Quale frase useresti per lanciare il tuo culto innocuo?": [
+    "'Fratelli del sonnellino, unitevi'",
+    "'La focaccia vi osserva'",
+    "'Liberatevi delle notifiche inutili'",
+    "'Solo chi ha perso un calzino conosce la verità'",
+    "'Venite, vi spiego perché il bidet è civiltà'"
   ],
   "Quale tipo di giornata preferisci?": [
     "Impegnata",
@@ -2699,12 +2695,12 @@
     "Meal prep",
     "Non mi piace cucinare"
   ],
-  "Mi sento rispettato/a nei miei confini.": [
-    "Per niente d'accordo",
-    "Poco d'accordo",
-    "Neutrale",
-    "Abbastanza d'accordo",
-    "Molto d'accordo"
+  "Quale emozione ti dà il lunedì mattina?": [
+    "Tradimento",
+    "Suspense",
+    "Vuoto pneumatico",
+    "Finta maturità",
+    "Rabbia con pettinatura"
   ],
   "Quale categoria di serie inizi più spesso?": [
     "Mini-serie",
